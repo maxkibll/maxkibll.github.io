@@ -23,7 +23,12 @@ html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
 a{color:inherit}
 .wrap{max-width:980px;margin:0 auto;padding:24px 16px 64px}
-.top{display:flex;justify-content:flex-end}
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.home{display:inline-flex;align-items:center;min-height:44px;color:var(--muted);text-decoration:none;font-weight:500;font-size:15px}
+.home:hover,.homeh1:hover{color:var(--yellow)}
+.homeh1{color:inherit;text-decoration:none}
+.homeava{display:block;border-radius:50%}
+.homeava:hover .ava{border-color:#fff}
 .lang{display:flex;gap:6px}
 .lang button{min-width:44px;height:44px;background:none;border:1px solid var(--line);color:var(--muted);border-radius:999px;font:600 14px Inter,sans-serif;cursor:pointer}
 .lang button.on{color:var(--bg);background:var(--yellow);border-color:var(--yellow)}
@@ -134,12 +139,12 @@ h2{font:700 22px Oswald,sans-serif;letter-spacing:.4px;margin:0 0 4px;text-trans
 </head>
 <body>
 <div class="wrap">
-  <div class="top"><div class="lang" role="group" aria-label="Язык / Language"><button data-l="ru" class="on">RU</button><button data-l="en">EN</button></div></div>
+  <div class="top"><a class="home" href="/" data-t="home"></a><div class="lang" role="group" aria-label="Язык / Language"><button data-l="ru" class="on">RU</button><button data-l="en">EN</button></div></div>
 
   <section class="hero">
-    <img class="ava" src="avatar.png" alt="MAXKIBLL" width="132" height="132">
+    <a href="/" class="homeava" aria-label="MAXKIBLL"><img class="ava" src="avatar.png" alt="MAXKIBLL" width="132" height="132"></a>
     <div>
-      <h1>MAXKIBLL</h1>
+      <h1><a href="/" class="homeh1">MAXKIBLL</a></h1>
       <div class="tag" data-t="tag"></div>
       <div class="pills" id="pills"></div>
       <div class="act"><a class="cta" id="cta" hidden></a><button class="copy" id="copy" type="button" hidden></button></div>
@@ -182,7 +187,7 @@ h2{font:700 22px Oswald,sans-serif;letter-spacing:.4px;margin:0 0 4px;text-trans
 const EMAIL = "maxkibllstreamer@gmail.com"; // почта для связи; пусто, кнопки скрыты
 const PLAT = [["youtube","YouTube","var(--yellow)"],["instagram","Instagram","var(--teal)"],["tiktok","TikTok","var(--lav)"]];
 const T = {
- ru:{tag:"World of Tanks на русском · сервер EU · стримы на Twitch и ролики каждый день",cta:"Написать",copy:"Скопировать почту",copied:"Скопировано",
+ ru:{tag:"World of Tanks на русском · сервер EU · стримы на Twitch и ролики каждый день",cta:"Написать",home:"← Все ссылки",copy:"Скопировать почту",copied:"Скопировано",
      reach:"просмотров роликов за 28 дней на трёх площадках",src:"цифры из YouTube Studio, Instagram и TikTok",from:"с",to:"по",
      share:"доля площадок",retention:"средний досмотр шортса на YouTube",avgYt:"среднее время просмотра на YouTube",avgIg:"среднее время просмотра в Instagram",sec:"с",
      growth:"Рост по неделям",growthSub:"просмотры роликов по неделе выхода, тысячи",total:"всего",start:"старт 10.09",
@@ -192,7 +197,7 @@ const T = {
      tg:"Telegram-канал",ds:"Discord-сервер",views:"просмотров",male:"мужчины",female:"женщины",updated:"Обновлено",legal:"© 2026 MAXKIBLL. Все права защищены. Неофициальный сайт автора. World of Tanks: товарный знак Wargaming.net.",price:"Стоимость по запросу",nodata:"н/д",chartNo:"данных по неделям пока нет",
      f:[["Интеграция на стриме","упоминание голосом, ссылка в чате и в описании эфира, баннер на экране"],["Шортс с интеграцией","ролик на YouTube, TikTok и Instagram с упоминанием и ссылкой"],["Розыгрыш","коды или призы на стриме, условия от рекламодателя"],["Ссылка в описаниях","во всех роликах недели и в Telegram"]],
      months:["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"]},
- en:{tag:"World of Tanks in Russian · EU server · Twitch streams and a new Short every day",cta:"Email",copy:"Copy email",copied:"Copied",
+ en:{tag:"World of Tanks in Russian · EU server · Twitch streams and a new Short every day",cta:"Email",home:"← All links",copy:"Copy email",copied:"Copied",
      reach:"Shorts views in 28 days across three platforms",src:"data from YouTube Studio, Instagram and TikTok",from:"",to:"to",
      share:"platform share",retention:"of a Short watched on YouTube, on average",avgYt:"average watch time on YouTube",avgIg:"average watch time on Instagram",sec:"s",
      growth:"Weekly growth",growthSub:"views by week of release, thousands",total:"total",start:"start Sep 10",
