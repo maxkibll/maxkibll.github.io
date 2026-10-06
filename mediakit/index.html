@@ -189,7 +189,7 @@ const T = {
      note:"Ролики каждый день с 10 сентября. Текущая неделя ещё идёт, в графике её нет.",
      top:"Лучшие ролики месяца",topSub:"YouTube Shorts, по просмотрам",live:"Эфиры",community:"Сообщество",audience:"Аудитория",geo:"Страны",audSub:"зрители YouTube за 28 дней",
      formats:"Форматы рекламы",channels:"Каналы",followers:"фолловеров",followersTw:"фолловеров на Twitch",affiliate:"компаньон Twitch",perweek:"эфиров в неделю",hours:"часов в среднем за эфир",drops:"дропсы Twitch",
-     tg:"Telegram-канал",ds:"Discord-сервер",views:"просмотров",male:"мужчины",female:"женщины",updated:"Обновлено",price:"Стоимость по запросу",nodata:"н/д",chartNo:"данных по неделям пока нет",
+     tg:"Telegram-канал",ds:"Discord-сервер",views:"просмотров",male:"мужчины",female:"женщины",updated:"Обновлено",legal:"© 2026 MAXKIBLL. Все права защищены. Неофициальный сайт автора. World of Tanks является товарным знаком Wargaming.net.",price:"Стоимость по запросу",nodata:"н/д",chartNo:"данных по неделям пока нет",
      f:[["Интеграция на стриме","упоминание голосом, ссылка в чате и в описании эфира, баннер на экране"],["Шортс с интеграцией","ролик на YouTube, TikTok и Instagram с упоминанием и ссылкой"],["Розыгрыш","коды или призы на стриме, условия от рекламодателя"],["Ссылка в описаниях","во всех роликах недели и в Telegram"]],
      months:["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"]},
  en:{tag:"World of Tanks in Russian · EU server · Twitch streams and a new Short every day",cta:"Email",copy:"Copy email",copied:"Copied",
@@ -199,7 +199,7 @@ const T = {
      note:"A new Short every day since September 10. The current week is still running and is not shown.",
      top:"Top Shorts this month",topSub:"YouTube Shorts, by views",live:"Live",community:"Community",audience:"Audience",geo:"Countries",audSub:"YouTube viewers, last 28 days",
      formats:"Ad formats",channels:"Channels",followers:"followers",followersTw:"Twitch followers",affiliate:"Twitch Affiliate",perweek:"streams per week",hours:"hours per stream on average",drops:"Twitch Drops",
-     tg:"Telegram channel",ds:"Discord server",views:"views",male:"male",female:"female",updated:"Updated",price:"Pricing on request",nodata:"n/a",chartNo:"no weekly data yet",
+     tg:"Telegram channel",ds:"Discord server",views:"views",male:"male",female:"female",updated:"Updated",legal:"© 2026 MAXKIBLL. All rights reserved. Unofficial creator site. World of Tanks is a trademark of Wargaming.net.",price:"Pricing on request",nodata:"n/a",chartNo:"no weekly data yet",
      f:[["Stream integration","voice mention, link in chat and stream info, on-screen banner"],["Sponsored Short","a Short on YouTube, TikTok and Instagram with a mention and link"],["Giveaway","codes or prizes on stream, terms from the sponsor"],["Description links","in every video of the week and on Telegram"]],
      months:["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}};
 const C = {ru:{RU:"Россия",UA:"Украина",KZ:"Казахстан",KG:"Кыргызстан",BY:"Беларусь",AM:"Армения",DE:"Германия",PL:"Польша",UZ:"Узбекистан",GE:"Грузия",AZ:"Азербайджан",MD:"Молдова",LV:"Латвия",LT:"Литва",EE:"Эстония",IL:"Израиль",US:"США"},
@@ -305,6 +305,7 @@ function render(failed){
   document.querySelectorAll(".lang button").forEach(b=>{ b.classList.toggle("on",b.dataset.l===L); b.setAttribute("aria-pressed",b.dataset.l===L); });
   const cta=document.getElementById("cta"), cp=document.getElementById("copy");
   if(EMAIL){ cta.hidden=false; cta.href="mailto:"+EMAIL; cta.textContent=`${t.cta}: ${EMAIL}`; cp.hidden=!navigator.clipboard; cp.textContent=t.copy; }
+  document.getElementById("foot").textContent=t.legal;
   if(!D){ if(failed) arm(); return; }
   const tw=D.twitch||{}, yt=D.youtube||{}, ig=D.instagram||{}, cm=D.community||{};
   document.getElementById("pills").innerHTML=[`<span class="pill"><b>${fmt(tw.followers)}</b> ${t.followersTw}</span>`,`<span class="pill">${t.affiliate}</span>`,`<span class="pill">${t.drops}</span>`].join("");
@@ -323,7 +324,7 @@ function render(failed){
   document.getElementById("top").innerHTML=(yt.top||[]).map(v=>{ const id=(v.url.match(/shorts\/([\w-]{11})/)||[])[1];
     return `<a class="short" href="${esc(v.url)}" target="_blank" rel="noopener"><div class="thumb">${id?`<img src="https://i.ytimg.com/vi/${id}/hqdefault.jpg" alt="" loading="lazy">`:""}<span class="play"></span><span class="views">${fmt(v.views)}</span></div><p>${esc(v.title)}</p></a>`; }).join("");
   document.getElementById("formats").innerHTML=t.f.map(([a,b])=>`<div><b>${a}</b><span>${b}</span></div>`).join("");
-  document.getElementById("foot").textContent=`${t.updated}: ${day(D.updated)}`;
+  document.getElementById("foot").innerHTML=`${t.updated}: ${day(D.updated)}<br>${t.legal}`;
   chart(); if(chartDrawn) drawLines();
   arm();
 }
