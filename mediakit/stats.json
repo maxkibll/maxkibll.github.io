@@ -1,22 +1,22 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "period": {
-  "from": "2026-09-14",
-  "to": "2026-10-11"
+  "from": "2026-09-15",
+  "to": "2026-10-12"
  },
  "twitch": {
   "followers": 950,
   "type": "affiliate",
   "streams_28d": 13,
   "streams_per_week": 6.5,
-  "avg_stream_hours": 3.0,
+  "avg_stream_hours": 3.2,
   "window_days": 14
  },
  "youtube": {
   "subscribers": 42,
-  "views_28d": 39211,
-  "watch_hours_28d": 111,
-  "shorts_view_pct": 63,
+  "views_28d": 39717,
+  "watch_hours_28d": 113,
+  "shorts_view_pct": 64,
   "shorts_view_s": 18,
   "weekly": [
    0,
@@ -25,26 +25,26 @@
    8989,
    10967,
    12635,
-   8881,
-   849
+   9074,
+   1177
   ],
-  "likes_28d": 184,
+  "likes_28d": 195,
   "age": {
    "18-24": 9.3,
-   "25-34": 44.7,
-   "35-44": 30.7,
-   "45-54": 10.2,
-   "55-64": 1.9,
-   "65+": 3.0
+   "25-34": 44.5,
+   "35-44": 30.8,
+   "45-54": 10.3,
+   "55-64": 2,
+   "65+": 3.1
   },
   "gender": {
-   "male": 98.1,
-   "female": 1.7
+   "male": 98.2,
+   "female": 1.8
   },
   "countries": [
    {
     "code": "RU",
-    "share": 56
+    "share": 57
    },
    {
     "code": "UA",
@@ -66,7 +66,7 @@
   "top": [
    {
     "title": "420 мм пробития мало? 1114 одним выстрелом",
-    "views": 4514,
+    "views": 4516,
     "url": "https://youtube.com/shorts/7xRD6Khbd_E"
    },
    {
@@ -87,40 +87,40 @@
   ]
  },
  "instagram": {
-  "followers": 17,
-  "views_28d": 32555,
-  "reels_28d": 29,
+  "followers": 19,
+  "views_28d": 32205,
+  "reels_28d": 28,
   "weekly": [
    0,
    0,
    4928,
-   10208,
-   5685,
-   11297,
-   4944,
-   421
+   10214,
+   5695,
+   11312,
+   5200,
+   806
   ],
-  "avg_watch_s": 14.4
+  "avg_watch_s": 14.5
  },
  "tiktok": {
-  "views_28d": 11879,
-  "videos_28d": 29,
+  "views_28d": 11745,
+  "videos_28d": 28,
   "weekly": [
    0,
    0,
    1471,
    1271,
-   5741,
+   5743,
    1868,
-   2847,
-   152
+   2852,
+   155
   ]
  },
  "community": {
   "telegram": 42,
   "discord": 66
  },
- "shorts_views_28d": 83645,
+ "shorts_views_28d": 83667,
  "weeks": [
   "2026-08-24",
   "2026-08-31",
