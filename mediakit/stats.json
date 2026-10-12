@@ -12,10 +12,83 @@
   "avg_stream_hours": 3.2,
   "window_days": 13
  },
- "youtube": {},
+ "youtube": {
+  "subscribers": 41,
+  "views_28d": 39211,
+  "watch_hours_28d": 111,
+  "shorts_view_pct": 63,
+  "shorts_view_s": 18,
+  "weekly": [
+   0,
+   0,
+   5696,
+   8989,
+   10966,
+   12635,
+   8809,
+   0
+  ],
+  "likes_28d": 184,
+  "age": {
+   "18-24": 9.3,
+   "25-34": 44.7,
+   "35-44": 30.7,
+   "45-54": 10.2,
+   "55-64": 1.9,
+   "65+": 3.0
+  },
+  "gender": {
+   "male": 98.1,
+   "female": 1.7
+  },
+  "countries": [
+   {
+    "code": "RU",
+    "share": 56
+   },
+   {
+    "code": "UA",
+    "share": 13
+   },
+   {
+    "code": "KZ",
+    "share": 8
+   },
+   {
+    "code": "BY",
+    "share": 8
+   },
+   {
+    "code": "KG",
+    "share": 7
+   }
+  ],
+  "top": [
+   {
+    "title": "420 мм пробития мало? 1114 одним выстрелом",
+    "views": 4514,
+    "url": "https://youtube.com/shorts/7xRD6Khbd_E"
+   },
+   {
+    "title": "Слабая ЛТ? 1224 урона за 6 секунд, Char Mle 75",
+    "views": 2701,
+    "url": "https://youtube.com/shorts/9TZb6irVjsQ"
+   },
+   {
+    "title": "Таран для слабаков? Два фрага за 12 секунд",
+    "views": 2676,
+    "url": "https://youtube.com/shorts/yQWzg-9sCYQ"
+   },
+   {
+    "title": "С подпалом, детка",
+    "views": 2536,
+    "url": "https://youtube.com/shorts/ou_RrowCKOU"
+   }
+  ]
+ },
  "instagram": {
   "followers": 17,
-  "views_28d": 31645,
+  "views_28d": 31672,
   "reels_28d": 28,
   "weekly": [
    0,
@@ -23,23 +96,23 @@
    4928,
    10203,
    5682,
-   11267,
-   4493,
+   11268,
+   4519,
    0
   ],
   "avg_watch_s": 14.4
  },
  "tiktok": {
-  "views_28d": 11700,
+  "views_28d": 11708,
   "videos_28d": 28,
   "weekly": [
    0,
    0,
    1471,
    1271,
-   5738,
+   5739,
    1867,
-   2824,
+   2831,
    0
   ]
  },
@@ -47,7 +120,7 @@
   "telegram": 42,
   "discord": 66
  },
- "shorts_views_28d": 43345,
+ "shorts_views_28d": 82591,
  "weeks": [
   "2026-08-24",
   "2026-08-31",
