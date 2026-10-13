@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-13",
+ "updated": "2026-10-14",
  "period": {
-  "from": "2026-09-15",
-  "to": "2026-10-12"
+  "from": "2026-09-16",
+  "to": "2026-10-13"
  },
  "twitch": {
   "followers": 950,
@@ -14,32 +14,32 @@
  },
  "youtube": {
   "subscribers": 42,
-  "views_28d": 41281,
-  "watch_hours_28d": 119,
-  "shorts_view_pct": 64,
+  "views_28d": 40292,
+  "watch_hours_28d": 115,
+  "shorts_view_pct": 65,
   "shorts_view_s": 18,
   "weekly": [
    0,
    0,
-   5696,
+   5697,
    8990,
    10968,
    12635,
-   9770,
-   2285
+   9797,
+   2580
   ],
-  "likes_28d": 199,
+  "likes_28d": 193,
   "age": {
-   "18-24": 9.3,
-   "25-34": 44.5,
+   "18-24": 9.6,
+   "25-34": 45.0,
    "35-44": 30.8,
-   "45-54": 10.3,
-   "55-64": 2,
-   "65+": 3.1
+   "45-54": 10.1,
+   "55-64": 1.8,
+   "65+": 2.7
   },
   "gender": {
-   "male": 98.2,
-   "female": 1.8
+   "male": 98.4,
+   "female": 1.6
   },
   "countries": [
    {
@@ -48,7 +48,7 @@
    },
    {
     "code": "UA",
-    "share": 13
+    "share": 12
    },
    {
     "code": "KZ",
@@ -88,23 +88,23 @@
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 33388,
-  "reels_28d": 29,
+  "views_28d": 31586,
+  "reels_28d": 28,
   "weekly": [
    0,
    0,
    4928,
    10215,
    5695,
-   11350,
+   11353,
    5276,
-   1874
+   2414
   ],
-  "avg_watch_s": 14.6
+  "avg_watch_s": 14.0
  },
  "tiktok": {
-  "views_28d": 11939,
-  "videos_28d": 29,
+  "views_28d": 11771,
+  "videos_28d": 28,
   "weekly": [
    0,
    0,
@@ -112,20 +112,15 @@
    1271,
    5747,
    1872,
-   2886,
-   307
+   2888,
+   312
   ]
  },
  "community": {
   "telegram": 42,
-  "discord": 66
+  "discord": 67
  },
- "stale_fields": {
-  "youtube.age": "2026-10-13",
-  "youtube.gender": "2026-10-13",
-  "youtube.countries": "2026-10-13"
- },
- "shorts_views_28d": 86608,
+ "shorts_views_28d": 83649,
  "weeks": [
   "2026-08-24",
   "2026-08-31",
