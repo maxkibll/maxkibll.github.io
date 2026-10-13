@@ -8,9 +8,9 @@
   "followers": 950,
   "type": "affiliate",
   "streams_28d": 13,
-  "streams_per_week": 6.5,
+  "streams_per_week": 6.1,
   "avg_stream_hours": 3.2,
-  "window_days": 14
+  "window_days": 15
  },
  "youtube": {
   "subscribers": 42,
@@ -25,13 +25,44 @@
    8989,
    10968,
    12635,
-   9665,
-   1201
+   9693,
+   1406
   ],
   "likes_28d": 195,
-  "age": {},
-  "gender": {},
-  "countries": [],
+  "age": {
+   "18-24": 9.3,
+   "25-34": 44.5,
+   "35-44": 30.8,
+   "45-54": 10.3,
+   "55-64": 2,
+   "65+": 3.1
+  },
+  "gender": {
+   "male": 98.2,
+   "female": 1.8
+  },
+  "countries": [
+   {
+    "code": "RU",
+    "share": 57
+   },
+   {
+    "code": "UA",
+    "share": 13
+   },
+   {
+    "code": "KZ",
+    "share": 8
+   },
+   {
+    "code": "BY",
+    "share": 8
+   },
+   {
+    "code": "KG",
+    "share": 7
+   }
+  ],
   "top": [
    {
     "title": "420 мм пробития мало? 1114 одним выстрелом",
@@ -57,23 +88,23 @@
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 32916,
-  "reels_28d": 28,
+  "views_28d": 33136,
+  "reels_28d": 29,
   "weekly": [
    0,
    0,
    4928,
    10215,
    5695,
-   11340,
-   5274,
-   1414
+   11347,
+   5275,
+   1626
   ],
-  "avg_watch_s": 14.6
+  "avg_watch_s": 14.5
  },
  "tiktok": {
-  "views_28d": 11786,
-  "videos_28d": 28,
+  "views_28d": 11917,
+  "videos_28d": 29,
   "weekly": [
    0,
    0,
@@ -81,15 +112,20 @@
    1271,
    5746,
    1871,
-   2878,
-   164
+   2880,
+   293
   ]
  },
  "community": {
   "telegram": 42,
   "discord": 66
  },
- "shorts_views_28d": 84419,
+ "stale_fields": {
+  "youtube.age": "2026-10-13",
+  "youtube.gender": "2026-10-13",
+  "youtube.countries": "2026-10-13"
+ },
+ "shorts_views_28d": 84770,
  "weeks": [
   "2026-08-24",
   "2026-08-31",
