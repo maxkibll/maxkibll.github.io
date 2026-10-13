@@ -14,21 +14,21 @@
  },
  "youtube": {
   "subscribers": 42,
-  "views_28d": 39717,
-  "watch_hours_28d": 113,
+  "views_28d": 41281,
+  "watch_hours_28d": 119,
   "shorts_view_pct": 64,
   "shorts_view_s": 18,
   "weekly": [
    0,
    0,
    5696,
-   8989,
+   8990,
    10968,
    12635,
-   9693,
-   1418
+   9770,
+   2285
   ],
-  "likes_28d": 195,
+  "likes_28d": 199,
   "age": {
    "18-24": 9.3,
    "25-34": 44.5,
@@ -71,7 +71,7 @@
    },
    {
     "title": "Слабая ЛТ? 1224 урона за 6 секунд, Char Mle 75",
-    "views": 2701,
+    "views": 2705,
     "url": "https://youtube.com/shorts/9TZb6irVjsQ"
    },
    {
@@ -88,7 +88,7 @@
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 33139,
+  "views_28d": 33388,
   "reels_28d": 29,
   "weekly": [
    0,
@@ -96,24 +96,24 @@
    4928,
    10215,
    5695,
-   11347,
-   5275,
-   1629
+   11350,
+   5276,
+   1874
   ],
-  "avg_watch_s": 14.5
+  "avg_watch_s": 14.6
  },
  "tiktok": {
-  "views_28d": 11919,
+  "views_28d": 11939,
   "videos_28d": 29,
   "weekly": [
    0,
    0,
    1471,
    1271,
-   5746,
-   1871,
-   2880,
-   295
+   5747,
+   1872,
+   2886,
+   307
   ]
  },
  "community": {
@@ -125,7 +125,7 @@
   "youtube.gender": "2026-10-13",
   "youtube.countries": "2026-10-13"
  },
- "shorts_views_28d": 84775,
+ "shorts_views_28d": 86608,
  "weeks": [
   "2026-08-24",
   "2026-08-31",
