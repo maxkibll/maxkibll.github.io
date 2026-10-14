@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "period": {
-  "from": "2026-09-16",
-  "to": "2026-10-13"
+  "from": "2026-09-17",
+  "to": "2026-10-14"
  },
  "twitch": {
   "followers": 950,
   "type": "affiliate",
   "streams_28d": 12,
-  "streams_per_week": 6.0,
+  "streams_per_week": 5.6,
   "avg_stream_hours": 3.2,
-  "window_days": 14
+  "window_days": 15
  },
  "youtube": {
   "subscribers": 42,
-  "views_28d": 40271,
+  "views_28d": 41391,
   "watch_hours_28d": 115,
   "shorts_view_pct": 65,
-  "shorts_view_s": 18,
+  "shorts_view_s": 17,
   "weekly": [
    0,
    0,
    5697,
    8990,
-   10971,
-   12635,
-   10043,
-   2751
+   10973,
+   12634,
+   10069,
+   3563
   ],
-  "likes_28d": 193,
+  "likes_28d": 205,
   "age": {
-   "18-24": 9.6,
-   "25-34": 45.0,
-   "35-44": 30.8,
-   "45-54": 10.1,
-   "55-64": 1.8,
-   "65+": 2.7
+   "18-24": 9.5,
+   "25-34": 44.8,
+   "35-44": 30.9,
+   "45-54": 10.2,
+   "55-64": 1.7,
+   "65+": 2.9
   },
   "gender": {
-   "male": 98.4,
-   "female": 1.6
+   "male": 98.2,
+   "female": 1.8
   },
   "countries": [
    {
     "code": "RU",
-    "share": 57
+    "share": 56
    },
    {
     "code": "UA",
@@ -52,15 +52,15 @@
    },
    {
     "code": "KZ",
-    "share": 8
+    "share": 9
    },
    {
-    "code": "BY",
+    "code": "AM",
     "share": 8
    },
    {
     "code": "KG",
-    "share": 7
+    "share": 8
    }
   ],
   "top": [
@@ -88,23 +88,23 @@
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 32988,
-  "reels_28d": 29,
+  "views_28d": 31693,
+  "reels_28d": 28,
   "weekly": [
    0,
    0,
    4928,
    10216,
    5698,
-   11378,
+   11380,
    5281,
-   3782
+   3859
   ],
-  "avg_watch_s": 14.4
+  "avg_watch_s": 14.5
  },
  "tiktok": {
-  "views_28d": 11949,
-  "videos_28d": 29,
+  "views_28d": 11817,
+  "videos_28d": 28,
   "weekly": [
    0,
    0,
@@ -112,18 +112,15 @@
    1271,
    5748,
    1872,
-   2909,
-   468
+   2910,
+   476
   ]
  },
  "community": {
   "telegram": 42,
   "discord": 67
  },
- "stale": {
-  "twitch": "2026-10-14"
- },
- "shorts_views_28d": 85208,
+ "shorts_views_28d": 84901,
  "weeks": [
   "2026-08-24",
   "2026-08-31",
