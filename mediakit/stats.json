@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "period": {
-  "from": "2026-09-17",
-  "to": "2026-10-14"
+  "from": "2026-09-18",
+  "to": "2026-10-15"
  },
  "twitch": {
   "followers": 950,
   "type": "affiliate",
   "streams_28d": 12,
   "streams_per_week": 5.6,
-  "avg_stream_hours": 3.0,
+  "avg_stream_hours": 3.2,
   "window_days": 15
  },
  "youtube": {
   "subscribers": 42,
-  "views_28d": 41391,
-  "watch_hours_28d": 115,
-  "shorts_view_pct": 65,
-  "shorts_view_s": 17,
+  "views_28d": 41737,
+  "watch_hours_28d": 118,
+  "shorts_view_pct": 66,
+  "shorts_view_s": 18,
   "weekly": [
    0,
    0,
@@ -25,26 +25,26 @@
    8990,
    10973,
    12634,
-   10242,
-   4190
+   10243,
+   4400
   ],
-  "likes_28d": 205,
+  "likes_28d": 209,
   "age": {
-   "18-24": 9.5,
-   "25-34": 44.8,
-   "35-44": 30.9,
+   "18-24": 9.6,
+   "25-34": 45.0,
+   "35-44": 31.1,
    "45-54": 10.2,
-   "55-64": 1.7,
-   "65+": 2.9
+   "55-64": 1.6,
+   "65+": 2.6
   },
   "gender": {
-   "male": 98.2,
-   "female": 1.8
+   "male": 98.6,
+   "female": 1.5
   },
   "countries": [
    {
     "code": "RU",
-    "share": 56
+    "share": 57
    },
    {
     "code": "UA",
@@ -52,15 +52,15 @@
    },
    {
     "code": "KZ",
-    "share": 9
-   },
-   {
-    "code": "AM",
     "share": 8
    },
    {
     "code": "KG",
     "share": 8
+   },
+   {
+    "code": "BY",
+    "share": 7
    }
   ],
   "top": [
@@ -71,7 +71,7 @@
    },
    {
     "title": "Слабая ЛТ? 1224 урона за 6 секунд, Char Mle 75",
-    "views": 2705,
+    "views": 2706,
     "url": "https://youtube.com/shorts/9TZb6irVjsQ"
    },
    {
@@ -88,39 +88,39 @@
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 32007,
-  "reels_28d": 29,
+  "views_28d": 31780,
+  "reels_28d": 28,
   "weekly": [
    0,
    0,
    4928,
    10217,
-   5701,
-   11397,
+   5702,
+   11401,
    5281,
-   4152
+   4212
   ],
   "avg_watch_s": 14.5
  },
  "tiktok": {
-  "views_28d": 11919,
-  "videos_28d": 29,
+  "views_28d": 11812,
+  "videos_28d": 28,
   "weekly": [
    0,
    0,
    1471,
    1271,
    5748,
-   1875,
-   2923,
-   562
+   1876,
+   2925,
+   601
   ]
  },
  "community": {
   "telegram": 42,
   "discord": 67
  },
- "shorts_views_28d": 85317,
+ "shorts_views_28d": 85329,
  "weeks": [
   "2026-08-24",
   "2026-08-31",
