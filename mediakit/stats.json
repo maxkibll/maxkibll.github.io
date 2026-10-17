@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-10-18",
  "period": {
-  "from": "2026-09-19",
-  "to": "2026-10-16"
+  "from": "2026-09-20",
+  "to": "2026-10-17"
  },
  "twitch": {
   "followers": 951,
   "type": "affiliate",
   "streams_28d": 11,
-  "streams_per_week": 5.5,
+  "streams_per_week": 5.1,
   "avg_stream_hours": 3.1,
-  "window_days": 14
+  "window_days": 15
  },
  "youtube": {
   "subscribers": 42,
-  "views_28d": 41727,
-  "watch_hours_28d": 118,
+  "views_28d": 42321,
+  "watch_hours_28d": 120,
   "shorts_view_pct": 68,
   "shorts_view_s": 18,
   "weekly": [
@@ -23,22 +23,22 @@
    0,
    5699,
    8990,
-   10976,
+   10978,
    12638,
-   10259,
-   5647
+   10263,
+   5850
   ],
-  "likes_28d": 208,
+  "likes_28d": 209,
   "age": {
-   "18-24": 9.5,
-   "25-34": 44.8,
-   "35-44": 31.3,
-   "45-54": 10.1,
-   "55-64": 1.6,
+   "18-24": 9.4,
+   "25-34": 44.9,
+   "35-44": 31.2,
+   "45-54": 10.2,
+   "55-64": 1.5,
    "65+": 2.6
   },
   "gender": {
-   "male": 98.4,
+   "male": 98.3,
    "female": 1.5
   },
   "countries": [
@@ -59,7 +59,7 @@
     "share": 8
    },
    {
-    "code": "AM",
+    "code": "BY",
     "share": 7
    }
   ],
@@ -76,7 +76,7 @@
    },
    {
     "title": "Таран для слабаков? Два фрага за 12 секунд",
-    "views": 2676,
+    "views": 2678,
     "url": "https://youtube.com/shorts/yQWzg-9sCYQ"
    },
    {
@@ -88,39 +88,39 @@
  },
  "instagram": {
   "followers": 17,
-  "views_28d": 31812,
+  "views_28d": 30677,
   "reels_28d": 28,
   "weekly": [
    0,
    0,
    4928,
    10220,
-   5708,
-   11436,
+   5709,
+   11441,
    5282,
-   6110
+   6426
   ],
-  "avg_watch_s": 14.8
+  "avg_watch_s": 14.5
  },
  "tiktok": {
-  "views_28d": 11840,
+  "views_28d": 11833,
   "videos_28d": 28,
   "weekly": [
    0,
    0,
    1471,
    1271,
-   5750,
+   5753,
    1880,
    2963,
-   727
+   871
   ]
  },
  "community": {
   "telegram": 42,
   "discord": 67
  },
- "shorts_views_28d": 85379,
+ "shorts_views_28d": 84831,
  "weeks": [
   "2026-08-24",
   "2026-08-31",
