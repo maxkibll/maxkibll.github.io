@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-20",
  "period": {
-  "from": "2026-09-21",
-  "to": "2026-10-18"
+  "from": "2026-09-22",
+  "to": "2026-10-19"
  },
  "twitch": {
   "followers": 952,
   "type": "affiliate",
   "streams_28d": 11,
   "streams_per_week": 5.1,
-  "avg_stream_hours": 3.1,
+  "avg_stream_hours": 3.3,
   "window_days": 15
  },
  "youtube": {
   "subscribers": 43,
-  "views_28d": 40918,
-  "watch_hours_28d": 116,
+  "views_28d": 40341,
+  "watch_hours_28d": 115,
   "shorts_view_pct": 69,
   "shorts_view_s": 18,
   "weekly": [
@@ -25,17 +25,17 @@
    10978,
    12638,
    10280,
-   7567,
-   52
+   7572,
+   195
   ],
-  "likes_28d": 208,
+  "likes_28d": 209,
   "age": {
-   "18-24": 9.3,
+   "18-24": 9.4,
    "25-34": 44.6,
    "35-44": 31.6,
    "45-54": 10.4,
    "55-64": 1.6,
-   "65+": 2.5
+   "65+": 2.4
   },
   "gender": {
    "male": 98.5,
@@ -52,11 +52,11 @@
    },
    {
     "code": "KZ",
-    "share": 9
+    "share": 8
    },
    {
     "code": "KG",
-    "share": 8
+    "share": 7
    },
    {
     "code": "BY",
@@ -71,7 +71,7 @@
    },
    {
     "title": "Слабая ЛТ? 1224 урона за 6 секунд, Char Mle 75",
-    "views": 2712,
+    "views": 2715,
     "url": "https://youtube.com/shorts/9TZb6irVjsQ"
    },
    {
@@ -88,42 +88,39 @@
  },
  "instagram": {
   "followers": 17,
-  "views_28d": 29688,
-  "reels_28d": 29,
+  "views_28d": 29072,
+  "reels_28d": 28,
   "weekly": [
    0,
    4928,
    10221,
-   5716,
-   11452,
+   5718,
+   11454,
    5282,
-   7112,
-   126
+   7125,
+   154
   ],
   "avg_watch_s": 14.4
  },
  "tiktok": {
-  "views_28d": 11809,
-  "videos_28d": 29,
+  "views_28d": 11371,
+  "videos_28d": 28,
   "weekly": [
    0,
    1471,
    1271,
-   5753,
+   5755,
    1880,
-   3026,
+   3028,
    1022,
-   128
+   133
   ]
  },
  "community": {
   "telegram": 42,
   "discord": 67
  },
- "stale": {
-  "instagram": "2026-10-19"
- },
- "shorts_views_28d": 82415,
+ "shorts_views_28d": 80784,
  "weeks": [
   "2026-08-31",
   "2026-09-07",
