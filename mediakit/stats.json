@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "period": {
-  "from": "2026-09-24",
-  "to": "2026-10-21"
+  "from": "2026-09-25",
+  "to": "2026-10-22"
  },
  "twitch": {
   "followers": 952,
@@ -14,32 +14,32 @@
  },
  "youtube": {
   "subscribers": 43,
-  "views_28d": 39365,
-  "watch_hours_28d": 112,
-  "shorts_view_pct": 69,
+  "views_28d": 38128,
+  "watch_hours_28d": 109,
+  "shorts_view_pct": 68,
   "shorts_view_s": 18,
   "weekly": [
    0,
    6957,
    8991,
-   10978,
-   12639,
-   10290,
+   10980,
+   12640,
+   10293,
    7797,
-   1404
+   1585
   ],
-  "likes_28d": 215,
+  "likes_28d": 208,
   "age": {
-   "18-24": 9.5,
+   "18-24": 9.8,
    "25-34": 45.1,
    "35-44": 31.6,
-   "45-54": 10.3,
+   "45-54": 10.2,
    "55-64": 1.4,
-   "65+": 2.0
+   "65+": 1.9
   },
   "gender": {
    "male": 98.5,
-   "female": 1.4
+   "female": 1.5
   },
   "countries": [
    {
@@ -66,13 +66,8 @@
   "top": [
    {
     "title": "420 мм пробития мало? 1114 одним выстрелом",
-    "views": 4518,
+    "views": 4519,
     "url": "https://youtube.com/shorts/7xRD6Khbd_E"
-   },
-   {
-    "title": "Слабая ЛТ? 1224 урона за 6 секунд, Char Mle 75",
-    "views": 2715,
-    "url": "https://youtube.com/shorts/9TZb6irVjsQ"
    },
    {
     "title": "Таран для слабаков? Два фрага за 12 секунд",
@@ -83,47 +78,49 @@
     "title": "С подпалом, детка",
     "views": 2536,
     "url": "https://youtube.com/shorts/ou_RrowCKOU"
+   },
+   {
+    "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
+    "views": 2518,
+    "url": "https://youtube.com/shorts/7LJcLq-NnBY"
    }
   ]
  },
  "instagram": {
   "followers": 17,
-  "views_28d": 28722,
+  "views_28d": 27140,
   "reels_28d": 28,
   "weekly": [
    0,
    4928,
    10222,
    5723,
-   11478,
+   11480,
    5364,
    7152,
-   552
+   687
   ],
-  "avg_watch_s": 14.5
+  "avg_watch_s": 14.6
  },
  "tiktok": {
-  "views_28d": 11164,
-  "videos_28d": 29,
+  "views_28d": 7306,
+  "videos_28d": 28,
   "weekly": [
    0,
    1471,
    1271,
    5757,
    1880,
-   3072,
+   3076,
    1022,
-   569
+   570
   ]
  },
  "community": {
   "telegram": 42,
   "discord": 67
  },
- "stale": {
-  "instagram": "2026-10-22"
- },
- "shorts_views_28d": 79251,
+ "shorts_views_28d": 72574,
  "weeks": [
   "2026-08-31",
   "2026-09-07",
