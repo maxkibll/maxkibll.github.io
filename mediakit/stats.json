@@ -7,33 +7,33 @@
  "twitch": {
   "followers": 952,
   "type": "affiliate",
-  "streams_28d": 10,
-  "streams_per_week": 5.0,
-  "avg_stream_hours": 3.3,
-  "window_days": 14
+  "streams_28d": 11,
+  "streams_per_week": 5.1,
+  "avg_stream_hours": 3.1,
+  "window_days": 15
  },
  "youtube": {
   "subscribers": 43,
-  "views_28d": 38128,
-  "watch_hours_28d": 109,
+  "views_28d": 38572,
+  "watch_hours_28d": 110,
   "shorts_view_pct": 68,
   "shorts_view_s": 18,
   "weekly": [
    0,
    5703,
-   8991,
+   7825,
    10980,
    12640,
    10296,
    7796,
-   1969
+   2117
   ],
-  "likes_28d": 208,
+  "likes_28d": 210,
   "age": {
-   "18-24": 9.8,
-   "25-34": 45.1,
+   "18-24": 9.7,
+   "25-34": 45.3,
    "35-44": 31.6,
-   "45-54": 10.2,
+   "45-54": 10.1,
    "55-64": 1.4,
    "65+": 1.9
   },
@@ -81,14 +81,14 @@
    },
    {
     "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
-    "views": 2518,
+    "views": 2522,
     "url": "https://youtube.com/shorts/7LJcLq-NnBY"
    }
   ]
  },
  "instagram": {
   "followers": 18,
-  "views_28d": 27310,
+  "views_28d": 27332,
   "reels_28d": 29,
   "weekly": [
    0,
@@ -97,13 +97,13 @@
    5723,
    11483,
    5364,
-   7155,
-   851
+   7157,
+   871
   ],
   "avg_watch_s": 14.5
  },
  "tiktok": {
-  "views_28d": 7380,
+  "views_28d": 7458,
   "videos_28d": 29,
   "weekly": [
    0,
@@ -113,14 +113,14 @@
    1880,
    3083,
    1024,
-   635
+   713
   ]
  },
  "community": {
   "telegram": 42,
   "discord": 67
  },
- "shorts_views_28d": 72818,
+ "shorts_views_28d": 73362,
  "weeks": [
   "2026-08-31",
   "2026-09-07",
