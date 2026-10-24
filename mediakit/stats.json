@@ -7,39 +7,39 @@
  "twitch": {
   "followers": 952,
   "type": "affiliate",
-  "streams_28d": 10,
-  "streams_per_week": 4.7,
+  "streams_28d": 11,
+  "streams_per_week": 5.1,
   "avg_stream_hours": 3.1,
   "window_days": 15
  },
  "youtube": {
-  "subscribers": 43,
-  "views_28d": 36234,
-  "watch_hours_28d": 105,
+  "subscribers": 44,
+  "views_28d": 36862,
+  "watch_hours_28d": 107,
   "shorts_view_pct": 68,
   "shorts_view_s": 18,
   "weekly": [
    0,
-   5703,
+   5704,
    7569,
    10980,
    12640,
    10300,
    7796,
-   2496
+   2620
   ],
-  "likes_28d": 202,
+  "likes_28d": 211,
   "age": {
-   "18-24": 9.8,
-   "25-34": 45.4,
-   "35-44": 31.6,
-   "45-54": 10.2,
+   "18-24": 9.9,
+   "25-34": 45.6,
+   "35-44": 31.5,
+   "45-54": 10,
    "55-64": 1.3,
    "65+": 1.8
   },
   "gender": {
-   "male": 98.7,
-   "female": 1.4
+   "male": 98.8,
+   "female": 1.3
   },
   "countries": [
    {
@@ -60,7 +60,7 @@
    },
    {
     "code": "KG",
-    "share": 7
+    "share": 6
    }
   ],
   "top": [
@@ -71,7 +71,7 @@
    },
    {
     "title": "Таран для слабаков? Два фрага за 12 секунд",
-    "views": 2678,
+    "views": 2679,
     "url": "https://youtube.com/shorts/yQWzg-9sCYQ"
    },
    {
@@ -81,14 +81,14 @@
    },
    {
     "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
-    "views": 2522,
+    "views": 2525,
     "url": "https://youtube.com/shorts/7LJcLq-NnBY"
    }
   ]
  },
  "instagram": {
   "followers": 18,
-  "views_28d": 26597,
+  "views_28d": 26637,
   "reels_28d": 29,
   "weekly": [
    0,
@@ -97,13 +97,13 @@
    5723,
    11485,
    5364,
-   7168,
-   1487
+   7169,
+   1526
   ],
-  "avg_watch_s": 15.0
+  "avg_watch_s": 14.9
  },
  "tiktok": {
-  "views_28d": 7121,
+  "views_28d": 7178,
   "videos_28d": 29,
   "weekly": [
    0,
@@ -111,16 +111,16 @@
    1271,
    5757,
    1880,
-   3089,
+   3090,
    1024,
-   782
+   838
   ]
  },
  "community": {
   "telegram": 42,
   "discord": 67
  },
- "shorts_views_28d": 69952,
+ "shorts_views_28d": 70677,
  "weeks": [
   "2026-08-31",
   "2026-09-07",
