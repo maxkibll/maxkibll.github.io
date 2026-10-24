@@ -8,9 +8,9 @@
   "followers": 952,
   "type": "affiliate",
   "streams_28d": 10,
-  "streams_per_week": 5.0,
+  "streams_per_week": 4.7,
   "avg_stream_hours": 3.1,
-  "window_days": 14
+  "window_days": 15
  },
  "youtube": {
   "subscribers": 43,
@@ -21,12 +21,12 @@
   "weekly": [
    0,
    5703,
-   7825,
+   7569,
    10980,
    12640,
    10300,
    7796,
-   2426
+   2496
   ],
   "likes_28d": 202,
   "age": {
@@ -88,8 +88,8 @@
  },
  "instagram": {
   "followers": 18,
-  "views_28d": 26316,
-  "reels_28d": 28,
+  "views_28d": 26597,
+  "reels_28d": 29,
   "weekly": [
    0,
    4928,
@@ -97,14 +97,14 @@
    5723,
    11485,
    5364,
-   7165,
-   1209
+   7168,
+   1487
   ],
   "avg_watch_s": 15.0
  },
  "tiktok": {
-  "views_28d": 7060,
-  "videos_28d": 28,
+  "views_28d": 7121,
+  "videos_28d": 29,
   "weekly": [
    0,
    1471,
@@ -113,14 +113,14 @@
    1880,
    3089,
    1024,
-   721
+   782
   ]
  },
  "community": {
   "telegram": 42,
   "discord": 67
  },
- "shorts_views_28d": 69610,
+ "shorts_views_28d": 69952,
  "weeks": [
   "2026-08-31",
   "2026-09-07",
