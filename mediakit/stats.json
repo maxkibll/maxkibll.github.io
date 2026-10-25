@@ -1,45 +1,45 @@
 {
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "period": {
-  "from": "2026-09-27",
-  "to": "2026-10-24"
+  "from": "2026-09-28",
+  "to": "2026-10-25"
  },
  "twitch": {
   "followers": 952,
   "type": "affiliate",
   "streams_28d": 11,
   "streams_per_week": 5.1,
-  "avg_stream_hours": 3.0,
+  "avg_stream_hours": 3.3,
   "window_days": 15
  },
  "youtube": {
   "subscribers": 44,
-  "views_28d": 34715,
-  "watch_hours_28d": 102,
+  "views_28d": 34349,
+  "watch_hours_28d": 103,
   "shorts_view_pct": 67,
   "shorts_view_s": 18,
   "weekly": [
-   0,
    5706,
    7706,
-   10983,
+   10984,
    12640,
    10305,
    7796,
-   3090
+   3091,
+   0
   ],
-  "likes_28d": 204,
+  "likes_28d": 205,
   "age": {
-   "18-24": 9.9,
-   "25-34": 45.7,
-   "35-44": 31.9,
-   "45-54": 10,
+   "18-24": 10,
+   "25-34": 45.8,
+   "35-44": 32.1,
+   "45-54": 10.1,
    "55-64": 1,
-   "65+": 1.5
+   "65+": 1.1
   },
   "gender": {
-   "male": 98.6,
-   "female": 1.4
+   "male": 98.9,
+   "female": 1.2
   },
   "countries": [
    {
@@ -81,54 +81,54 @@
    },
    {
     "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
-    "views": 2525,
+    "views": 2529,
     "url": "https://youtube.com/shorts/7LJcLq-NnBY"
    }
   ]
  },
  "instagram": {
   "followers": 18,
-  "views_28d": 26474,
-  "reels_28d": 29,
+  "views_28d": 25957,
+  "reels_28d": 28,
   "weekly": [
-   0,
    4928,
    10225,
    5723,
    11485,
    5364,
-   7189,
-   1830
+   7195,
+   1913,
+   0
   ],
-  "avg_watch_s": 14.9
+  "avg_watch_s": 15.1
  },
  "tiktok": {
-  "views_28d": 7136,
-  "videos_28d": 29,
+  "views_28d": 6981,
+  "videos_28d": 28,
   "weekly": [
-   0,
    1471,
    1271,
    5757,
    1880,
    3097,
    1024,
-   969
+   980,
+   0
   ]
  },
  "community": {
   "telegram": 42,
   "discord": 67
  },
- "shorts_views_28d": 68325,
+ "shorts_views_28d": 67287,
  "weeks": [
-  "2026-08-31",
   "2026-09-07",
   "2026-09-14",
   "2026-09-21",
   "2026-09-28",
   "2026-10-05",
   "2026-10-12",
-  "2026-10-19"
+  "2026-10-19",
+  "2026-10-26"
  ]
 }
