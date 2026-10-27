@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "period": {
-  "from": "2026-09-29",
-  "to": "2026-10-26"
+  "from": "2026-09-30",
+  "to": "2026-10-27"
  },
  "twitch": {
   "followers": 953,
@@ -14,8 +14,8 @@
  },
  "youtube": {
   "subscribers": 44,
-  "views_28d": 33672,
-  "watch_hours_28d": 117,
+  "views_28d": 32582,
+  "watch_hours_28d": 116,
   "shorts_view_pct": 67,
   "shorts_view_s": 19,
   "weekly": [
@@ -26,25 +26,25 @@
    10316,
    7796,
    3434,
-   995
+   1159
   ],
-  "likes_28d": 211,
+  "likes_28d": 206,
   "age": {
-   "18-24": 9.8,
-   "25-34": 46.0,
-   "35-44": 32.3,
+   "18-24": 9.7,
+   "25-34": 45.7,
+   "35-44": 32.6,
    "45-54": 9.9,
-   "55-64": 1,
+   "55-64": 1.1,
    "65+": 1
   },
   "gender": {
-   "male": 98.8,
-   "female": 1.2
+   "male": 98.9,
+   "female": 1.1
   },
   "countries": [
    {
     "code": "RU",
-    "share": 62
+    "share": 63
    },
    {
     "code": "UA",
@@ -75,21 +75,21 @@
     "url": "https://youtube.com/shorts/yQWzg-9sCYQ"
    },
    {
-    "title": "С подпалом, детка",
-    "views": 2536,
-    "url": "https://youtube.com/shorts/ou_RrowCKOU"
-   },
-   {
     "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
     "views": 2534,
     "url": "https://youtube.com/shorts/7LJcLq-NnBY"
+   },
+   {
+    "title": "Я эту задачу полтора месяца не мог выполнить 😅 TNH T vz. 51",
+    "views": 1962,
+    "url": "https://youtube.com/shorts/oXwOt3LFdGA"
    }
   ]
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 27614,
-  "reels_28d": 29,
+  "views_28d": 25360,
+  "reels_28d": 28,
   "weekly": [
    4928,
    10225,
@@ -97,30 +97,30 @@
    11492,
    5364,
    7211,
-   2119,
-   1832
+   2124,
+   1925
   ],
-  "avg_watch_s": 14.9
+  "avg_watch_s": 15.5
  },
  "tiktok": {
-  "views_28d": 7094,
-  "videos_28d": 29,
+  "views_28d": 6445,
+  "videos_28d": 28,
   "weekly": [
    1471,
    1271,
    5757,
    1880,
-   3117,
+   3119,
    1025,
    1014,
-   248
+   252
   ]
  },
  "community": {
   "telegram": 42,
   "discord": 67
  },
- "shorts_views_28d": 68380,
+ "shorts_views_28d": 64387,
  "weeks": [
   "2026-09-07",
   "2026-09-14",
