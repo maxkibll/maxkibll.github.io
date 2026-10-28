@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "period": {
-  "from": "2026-09-30",
-  "to": "2026-10-27"
+  "from": "2026-10-01",
+  "to": "2026-10-28"
  },
  "twitch": {
   "followers": 953,
@@ -14,32 +14,32 @@
  },
  "youtube": {
   "subscribers": 44,
-  "views_28d": 33475,
-  "watch_hours_28d": 119,
+  "views_28d": 31779,
+  "watch_hours_28d": 116,
   "shorts_view_pct": 68,
-  "shorts_view_s": 19,
+  "shorts_view_s": 20,
   "weekly": [
    5706,
    8991,
    8264,
    12642,
-   10317,
+   10318,
    7796,
    3436,
-   1822
+   1989
   ],
-  "likes_28d": 214,
+  "likes_28d": 207,
   "age": {
-   "18-24": 9.7,
+   "18-24": 9.5,
    "25-34": 45.7,
-   "35-44": 32.6,
-   "45-54": 10,
+   "35-44": 32.5,
+   "45-54": 10.1,
    "55-64": 1.1,
    "65+": 1
   },
   "gender": {
-   "male": 99.0,
-   "female": 1.1
+   "male": 99.1,
+   "female": 0.8
   },
   "countries": [
    {
@@ -60,7 +60,7 @@
    },
    {
     "code": "KG",
-    "share": 6
+    "share": 5
    }
   ],
   "top": [
@@ -68,11 +68,6 @@
     "title": "420 мм пробития мало? 1114 одним выстрелом",
     "views": 4519,
     "url": "https://youtube.com/shorts/7xRD6Khbd_E"
-   },
-   {
-    "title": "Таран для слабаков? Два фрага за 12 секунд",
-    "views": 2679,
-    "url": "https://youtube.com/shorts/yQWzg-9sCYQ"
    },
    {
     "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
@@ -83,13 +78,18 @@
     "title": "Я эту задачу полтора месяца не мог выполнить 😅 TNH T vz. 51",
     "views": 1962,
     "url": "https://youtube.com/shorts/oXwOt3LFdGA"
+   },
+   {
+    "title": "У меня не осталось снарядов 💥 T57 Heavy в Натиске",
+    "views": 1922,
+    "url": "https://youtube.com/shorts/Ltvdw57-zfA"
    }
   ]
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 26236,
-  "reels_28d": 29,
+  "views_28d": 24226,
+  "reels_28d": 28,
   "weekly": [
    4928,
    10225,
@@ -98,19 +98,19 @@
    5364,
    7220,
    2129,
-   2786
+   2863
   ],
-  "avg_watch_s": 15.5
+  "avg_watch_s": 15.7
  },
  "tiktok": {
-  "views_28d": 6796,
-  "videos_28d": 29,
+  "views_28d": 6639,
+  "videos_28d": 28,
   "weekly": [
    1471,
    1271,
    5757,
    1880,
-   3128,
+   3131,
    1025,
    1017,
    591
@@ -120,7 +120,7 @@
   "telegram": 43,
   "discord": 67
  },
- "shorts_views_28d": 66507,
+ "shorts_views_28d": 62644,
  "weeks": [
   "2026-09-07",
   "2026-09-14",
