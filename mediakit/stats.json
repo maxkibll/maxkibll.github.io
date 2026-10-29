@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "period": {
-  "from": "2026-10-01",
-  "to": "2026-10-28"
+  "from": "2026-10-02",
+  "to": "2026-10-29"
  },
  "twitch": {
   "followers": 952,
@@ -14,8 +14,8 @@
  },
  "youtube": {
   "subscribers": 44,
-  "views_28d": 32621,
-  "watch_hours_28d": 119,
+  "views_28d": 31288,
+  "watch_hours_28d": 117,
   "shorts_view_pct": 68,
   "shorts_view_s": 20,
   "weekly": [
@@ -26,20 +26,20 @@
    10320,
    7796,
    3437,
-   2489
+   2493
   ],
-  "likes_28d": 215,
+  "likes_28d": 211,
   "age": {
-   "18-24": 9.6,
-   "25-34": 45.8,
+   "18-24": 9.7,
+   "25-34": 45.7,
    "35-44": 32.4,
-   "45-54": 10.1,
+   "45-54": 10,
    "55-64": 1.1,
    "65+": 1
   },
   "gender": {
    "male": 99.2,
-   "female": 0.8
+   "female": 0.7
   },
   "countries": [
    {
@@ -52,7 +52,7 @@
    },
    {
     "code": "KZ",
-    "share": 8
+    "share": 7
    },
    {
     "code": "BY",
@@ -66,7 +66,7 @@
   "top": [
    {
     "title": "420 мм пробития мало? 1114 одним выстрелом",
-    "views": 4519,
+    "views": 3928,
     "url": "https://youtube.com/shorts/7xRD6Khbd_E"
    },
    {
@@ -88,8 +88,8 @@
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 25288,
-  "reels_28d": 29,
+  "views_28d": 23430,
+  "reels_28d": 28,
   "weekly": [
    4928,
    10225,
@@ -98,29 +98,29 @@
    5367,
    7223,
    2129,
-   3918
+   3957
   ],
-  "avg_watch_s": 15.7
+  "avg_watch_s": 16.0
  },
  "tiktok": {
-  "views_28d": 6790,
-  "videos_28d": 29,
+  "views_28d": 6389,
+  "videos_28d": 28,
   "weekly": [
    1471,
    1271,
    5757,
    1880,
-   3143,
+   3145,
    1025,
    1017,
-   730
+   734
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 67
  },
- "shorts_views_28d": 64699,
+ "shorts_views_28d": 61107,
  "weeks": [
   "2026-09-07",
   "2026-09-14",
