@@ -14,19 +14,19 @@
  },
  "youtube": {
   "subscribers": 44,
-  "views_28d": 31779,
+  "views_28d": 31778,
   "watch_hours_28d": 116,
   "shorts_view_pct": 68,
   "shorts_view_s": 20,
   "weekly": [
    5706,
    8991,
-   8264,
+   10987,
    12642,
    10318,
    7796,
    3436,
-   1989
+   2011
   ],
   "likes_28d": 207,
   "age": {
@@ -88,17 +88,17 @@
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 24226,
+  "views_28d": 24264,
   "reels_28d": 28,
   "weekly": [
    4928,
    10225,
    5723,
-   11493,
+   11494,
    5364,
    7220,
    2129,
-   2863
+   2901
   ],
   "avg_watch_s": 15.7
  },
@@ -120,7 +120,7 @@
   "telegram": 43,
   "discord": 67
  },
- "shorts_views_28d": 62644,
+ "shorts_views_28d": 62681,
  "weeks": [
   "2026-09-07",
   "2026-09-14",
