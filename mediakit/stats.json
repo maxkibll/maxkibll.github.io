@@ -8,14 +8,14 @@
   "followers": 952,
   "type": "affiliate",
   "streams_28d": 11,
-  "streams_per_week": 5.5,
+  "streams_per_week": 5.1,
   "avg_stream_hours": 3.2,
-  "window_days": 14
+  "window_days": 15
  },
  "youtube": {
   "subscribers": 44,
-  "views_28d": 31778,
-  "watch_hours_28d": 116,
+  "views_28d": 32621,
+  "watch_hours_28d": 119,
   "shorts_view_pct": 68,
   "shorts_view_s": 20,
   "weekly": [
@@ -23,22 +23,22 @@
    8992,
    9781,
    12642,
-   10318,
+   10320,
    7796,
    3437,
-   2216
+   2489
   ],
-  "likes_28d": 207,
+  "likes_28d": 215,
   "age": {
-   "18-24": 9.5,
-   "25-34": 45.7,
-   "35-44": 32.5,
+   "18-24": 9.6,
+   "25-34": 45.8,
+   "35-44": 32.4,
    "45-54": 10.1,
    "55-64": 1.1,
    "65+": 1
   },
   "gender": {
-   "male": 99.1,
+   "male": 99.2,
    "female": 0.8
   },
   "countries": [
@@ -81,14 +81,14 @@
    },
    {
     "title": "У меня не осталось снарядов 💥 T57 Heavy в Натиске",
-    "views": 1922,
+    "views": 1923,
     "url": "https://youtube.com/shorts/Ltvdw57-zfA"
    }
   ]
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 25232,
+  "views_28d": 25288,
   "reels_28d": 29,
   "weekly": [
    4928,
@@ -98,29 +98,29 @@
    5367,
    7223,
    2129,
-   3862
+   3918
   ],
   "avg_watch_s": 15.7
  },
  "tiktok": {
-  "views_28d": 6764,
+  "views_28d": 6790,
   "videos_28d": 29,
   "weekly": [
    1471,
    1271,
    5757,
    1880,
-   3139,
+   3143,
    1025,
    1017,
-   708
+   730
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 67
  },
- "shorts_views_28d": 63774,
+ "shorts_views_28d": 64699,
  "weeks": [
   "2026-09-07",
   "2026-09-14",
