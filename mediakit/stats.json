@@ -1,22 +1,22 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-10-31",
  "period": {
-  "from": "2026-10-02",
-  "to": "2026-10-29"
+  "from": "2026-10-03",
+  "to": "2026-10-30"
  },
  "twitch": {
   "followers": 952,
   "type": "affiliate",
-  "streams_28d": 10,
-  "streams_per_week": 4.7,
-  "avg_stream_hours": 3.2,
+  "streams_28d": 11,
+  "streams_per_week": 5.1,
+  "avg_stream_hours": 3.1,
   "window_days": 15
  },
  "youtube": {
   "subscribers": 44,
-  "views_28d": 31288,
-  "watch_hours_28d": 117,
-  "shorts_view_pct": 68,
+  "views_28d": 31017,
+  "watch_hours_28d": 116,
+  "shorts_view_pct": 66,
   "shorts_view_s": 20,
   "weekly": [
    5706,
@@ -25,20 +25,20 @@
    12640,
    10322,
    7796,
-   3441,
-   3439
+   3443,
+   4054
   ],
-  "likes_28d": 211,
+  "likes_28d": 209,
   "age": {
    "18-24": 9.7,
    "25-34": 45.7,
    "35-44": 32.4,
-   "45-54": 10,
-   "55-64": 1.1,
-   "65+": 1
+   "45-54": 9.9,
+   "55-64": 1.2,
+   "65+": 1.1
   },
   "gender": {
-   "male": 99.2,
+   "male": 99.3,
    "female": 0.7
   },
   "countries": [
@@ -52,7 +52,7 @@
    },
    {
     "code": "KZ",
-    "share": 7
+    "share": 8
    },
    {
     "code": "BY",
@@ -66,12 +66,12 @@
   "top": [
    {
     "title": "420 мм пробития мало? 1114 одним выстрелом",
-    "views": 3928,
+    "views": 3305,
     "url": "https://youtube.com/shorts/7xRD6Khbd_E"
    },
    {
     "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
-    "views": 2543,
+    "views": 2544,
     "url": "https://youtube.com/shorts/7LJcLq-NnBY"
    },
    {
@@ -88,8 +88,8 @@
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 23939,
-  "reels_28d": 29,
+  "views_28d": 21926,
+  "reels_28d": 28,
   "weekly": [
    4928,
    10225,
@@ -98,29 +98,29 @@
    5369,
    7226,
    2130,
-   4460
+   5045
   ],
-  "avg_watch_s": 16.0
+  "avg_watch_s": 15.6
  },
  "tiktok": {
-  "views_28d": 6585,
-  "videos_28d": 29,
+  "views_28d": 6536,
+  "videos_28d": 28,
   "weekly": [
    1471,
    1271,
    5757,
    1880,
-   3201,
+   3204,
    1025,
    1019,
-   872
+   987
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 67
  },
- "shorts_views_28d": 61812,
+ "shorts_views_28d": 59479,
  "weeks": [
   "2026-09-07",
   "2026-09-14",
