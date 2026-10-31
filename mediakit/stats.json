@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "period": {
-  "from": "2026-10-03",
-  "to": "2026-10-30"
+  "from": "2026-10-04",
+  "to": "2026-10-31"
  },
  "twitch": {
   "followers": 952,
@@ -14,9 +14,9 @@
  },
  "youtube": {
   "subscribers": 44,
-  "views_28d": 31016,
-  "watch_hours_28d": 116,
-  "shorts_view_pct": 65,
+  "views_28d": 28149,
+  "watch_hours_28d": 109,
+  "shorts_view_pct": 64,
   "shorts_view_s": 20,
   "weekly": [
    5707,
@@ -26,25 +26,25 @@
    10324,
    7796,
    3443,
-   4973
+   5044
   ],
-  "likes_28d": 209,
+  "likes_28d": 204,
   "age": {
-   "18-24": 9.7,
-   "25-34": 45.7,
+   "18-24": 10.1,
+   "25-34": 46.6,
    "35-44": 32.4,
-   "45-54": 9.9,
-   "55-64": 1.2,
-   "65+": 1.1
+   "45-54": 9.2,
+   "55-64": 0.9,
+   "65+": 0.8
   },
   "gender": {
-   "male": 99.3,
-   "female": 0.7
+   "male": 99.5,
+   "female": 0.5
   },
   "countries": [
    {
     "code": "RU",
-    "share": 63
+    "share": 62
    },
    {
     "code": "UA",
@@ -60,19 +60,19 @@
    },
    {
     "code": "KG",
-    "share": 5
+    "share": 6
    }
   ],
   "top": [
    {
-    "title": "420 мм пробития мало? 1114 одним выстрелом",
-    "views": 3305,
-    "url": "https://youtube.com/shorts/7xRD6Khbd_E"
+    "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
+    "views": 2546,
+    "url": "https://youtube.com/shorts/7LJcLq-NnBY"
    },
    {
-    "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
-    "views": 2544,
-    "url": "https://youtube.com/shorts/7LJcLq-NnBY"
+    "title": "420 мм пробития мало? 1114 одним выстрелом",
+    "views": 1995,
+    "url": "https://youtube.com/shorts/7xRD6Khbd_E"
    },
    {
     "title": "Я эту задачу полтора месяца не мог выполнить 😅 TNH T vz. 51",
@@ -81,46 +81,46 @@
    },
    {
     "title": "У меня не осталось снарядов 💥 T57 Heavy в Натиске",
-    "views": 1923,
+    "views": 1925,
     "url": "https://youtube.com/shorts/Ltvdw57-zfA"
    }
   ]
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 23026,
-  "reels_28d": 29,
+  "views_28d": 22201,
+  "reels_28d": 28,
   "weekly": [
    4928,
    10225,
    5723,
    11497,
    5369,
-   7231,
+   7232,
    2130,
-   6140
+   7048
   ],
-  "avg_watch_s": 15.7
+  "avg_watch_s": 16.1
  },
  "tiktok": {
-  "views_28d": 7511,
-  "videos_28d": 29,
+  "views_28d": 7461,
+  "videos_28d": 28,
   "weekly": [
    1471,
    1271,
    5757,
-   1881,
+   1882,
    3209,
    1025,
    1019,
-   1957
+   2070
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 67
  },
- "shorts_views_28d": 61553,
+ "shorts_views_28d": 57811,
  "weeks": [
   "2026-09-07",
   "2026-09-14",
