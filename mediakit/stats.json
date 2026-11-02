@@ -1,41 +1,41 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "period": {
-  "from": "2026-10-05",
-  "to": "2026-11-01"
+  "from": "2026-10-06",
+  "to": "2026-11-02"
  },
  "twitch": {
   "followers": 951,
   "type": "affiliate",
-  "streams_28d": 10,
-  "streams_per_week": 4.7,
+  "streams_28d": 11,
+  "streams_per_week": 5.1,
   "avg_stream_hours": 3.0,
   "window_days": 15
  },
  "youtube": {
-  "subscribers": 44,
-  "views_28d": 27993,
-  "watch_hours_28d": 108,
-  "shorts_view_pct": 60,
-  "shorts_view_s": 20,
+  "subscribers": 45,
+  "views_28d": 26657,
+  "watch_hours_28d": 105,
+  "shorts_view_pct": 59,
+  "shorts_view_s": 21,
   "weekly": [
    8994,
-   10995,
+   10996,
    12643,
    10333,
    7796,
    3454,
-   7466,
-   409
+   7491,
+   773
   ],
-  "likes_28d": 215,
+  "likes_28d": 208,
   "age": {
-   "18-24": 10.5,
-   "25-34": 47.8,
-   "35-44": 31.6,
-   "45-54": 8.8,
-   "55-64": 0.6,
-   "65+": 0.8
+   "18-24": 10.8,
+   "25-34": 48.9,
+   "35-44": 31.3,
+   "45-54": 8.3,
+   "55-64": 0.3,
+   "65+": 0.5
   },
   "gender": {
    "male": 99.6,
@@ -52,7 +52,7 @@
    },
    {
     "code": "KZ",
-    "share": 9
+    "share": 8
    },
    {
     "code": "BY",
@@ -81,30 +81,30 @@
    },
    {
     "title": "Нашёл пиксель для пробития. 1528 с полного ХП",
-    "views": 1647,
+    "views": 1645,
     "url": "https://youtube.com/shorts/MU9mwR64NVA"
    }
   ]
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 23438,
-  "reels_28d": 29,
+  "views_28d": 23076,
+  "reels_28d": 28,
   "weekly": [
    10225,
    5723,
    11502,
    5369,
-   7249,
+   7250,
    2130,
-   8568,
-   122
+   8572,
+   134
   ],
   "avg_watch_s": 16.1
  },
  "tiktok": {
-  "views_28d": 7765,
-  "videos_28d": 29,
+  "views_28d": 7599,
+  "videos_28d": 28,
   "weekly": [
    1271,
    5757,
@@ -112,15 +112,15 @@
    3210,
    1025,
    1019,
-   2385,
-   126
+   2387,
+   132
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 59196,
+ "shorts_views_28d": 57332,
  "weeks": [
   "2026-09-14",
   "2026-09-21",
