@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "period": {
-  "from": "2026-10-06",
-  "to": "2026-11-02"
+  "from": "2026-10-07",
+  "to": "2026-11-03"
  },
  "twitch": {
   "followers": 951,
@@ -14,41 +14,40 @@
  },
  "youtube": {
   "subscribers": 45,
-  "views_28d": 26656,
-  "watch_hours_28d": 105,
-  "shorts_view_pct": 59,
+  "views_28d": 27262,
+  "watch_hours_28d": 111,
+  "shorts_view_pct": 58,
   "shorts_view_s": 21,
   "weekly": [
    8994,
    10998,
-   12643,
+   12644,
    10335,
    7796,
    3454,
-   7609,
-   1252
+   7624,
+   1281
   ],
-  "likes_28d": 208,
+  "likes_28d": 207,
   "age": {
    "18-24": 10.8,
-   "25-34": 48.9,
-   "35-44": 31.3,
-   "45-54": 8.3,
-   "55-64": 0.3,
-   "65+": 0.5
+   "25-34": 49.9,
+   "35-44": 31.2,
+   "45-54": 7.9,
+   "65+": 0.3
   },
   "gender": {
-   "male": 99.6,
-   "female": 0.5
+   "male": 99.5,
+   "female": 0.6
   },
   "countries": [
    {
     "code": "RU",
-    "share": 61
+    "share": 62
    },
    {
     "code": "UA",
-    "share": 12
+    "share": 11
    },
    {
     "code": "KZ",
@@ -56,17 +55,17 @@
    },
    {
     "code": "BY",
-    "share": 7
+    "share": 8
    },
    {
-    "code": "KG",
+    "code": "AM",
     "share": 6
    }
   ],
   "top": [
    {
     "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
-    "views": 2548,
+    "views": 2553,
     "url": "https://youtube.com/shorts/7LJcLq-NnBY"
    },
    {
@@ -80,31 +79,31 @@
     "url": "https://youtube.com/shorts/Ltvdw57-zfA"
    },
    {
-    "title": "Нашёл пиксель для пробития. 1528 с полного ХП",
-    "views": 1645,
-    "url": "https://youtube.com/shorts/MU9mwR64NVA"
+    "title": "Что ты за чудовище? 😳 FV225 Collector",
+    "views": 1330,
+    "url": "https://youtube.com/shorts/kTtl3S948vw"
    }
   ]
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 23395,
-  "reels_28d": 29,
+  "views_28d": 22963,
+  "reels_28d": 28,
   "weekly": [
    10225,
    5723,
    11502,
    5369,
-   7256,
+   7258,
    2130,
    8595,
-   424
+   438
   ],
-  "avg_watch_s": 16.1
+  "avg_watch_s": 16.3
  },
  "tiktok": {
-  "views_28d": 7689,
-  "videos_28d": 29,
+  "views_28d": 7533,
+  "videos_28d": 28,
   "weekly": [
    1271,
    5757,
@@ -112,7 +111,7 @@
    3210,
    1026,
    1019,
-   2398,
+   2404,
    210
   ]
  },
@@ -120,7 +119,7 @@
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 57740,
+ "shorts_views_28d": 57758,
  "weeks": [
   "2026-09-14",
   "2026-09-21",
