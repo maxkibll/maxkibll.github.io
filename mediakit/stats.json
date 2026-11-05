@@ -14,31 +14,31 @@
  },
  "youtube": {
   "subscribers": 45,
-  "views_28d": 27262,
-  "watch_hours_28d": 111,
+  "views_28d": 27745,
+  "watch_hours_28d": 114,
   "shorts_view_pct": 58,
   "shorts_view_s": 21,
   "weekly": [
    8994,
-   10998,
+   11001,
    12644,
-   10335,
-   7798,
-   3454,
-   7686,
-   1642
+   10338,
+   7800,
+   3456,
+   7690,
+   1747
   ],
-  "likes_28d": 207,
+  "likes_28d": 201,
   "age": {
-   "18-24": 10.8,
-   "25-34": 49.9,
-   "35-44": 31.2,
-   "45-54": 7.9,
+   "18-24": 10.7,
+   "25-34": 50.0,
+   "35-44": 31.0,
+   "45-54": 8.1,
    "65+": 0.3
   },
   "gender": {
-   "male": 99.5,
-   "female": 0.6
+   "male": 99.6,
+   "female": 0.5
   },
   "countries": [
    {
@@ -58,14 +58,14 @@
     "share": 8
    },
    {
-    "code": "AM",
+    "code": "KG",
     "share": 6
    }
   ],
   "top": [
    {
     "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
-    "views": 2553,
+    "views": 2556,
     "url": "https://youtube.com/shorts/7LJcLq-NnBY"
    },
    {
@@ -79,15 +79,15 @@
     "url": "https://youtube.com/shorts/Ltvdw57-zfA"
    },
    {
-    "title": "Что ты за чудовище? 😳 FV225 Collector",
-    "views": 1330,
-    "url": "https://youtube.com/shorts/kTtl3S948vw"
+    "title": "Гриль, ну не умри! 😅 AMX 50B",
+    "views": 1379,
+    "url": "https://youtube.com/shorts/PziZtO1-bO8"
    }
   ]
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 22943,
+  "views_28d": 22950,
   "reels_28d": 28,
   "weekly": [
    10225,
@@ -97,12 +97,12 @@
    7275,
    2130,
    8599,
-   678
+   685
   ],
   "avg_watch_s": 16.0
  },
  "tiktok": {
-  "views_28d": 7545,
+  "views_28d": 7550,
   "videos_28d": 28,
   "weekly": [
    1271,
@@ -111,18 +111,15 @@
    3210,
    1026,
    1019,
-   2441,
-   331
+   2444,
+   333
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "stale": {
-  "youtube": "2026-11-04"
- },
- "shorts_views_28d": 57750,
+ "shorts_views_28d": 58245,
  "weeks": [
   "2026-09-14",
   "2026-09-21",
