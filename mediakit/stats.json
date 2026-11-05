@@ -102,24 +102,28 @@
   "avg_watch_s": 16.0
  },
  "tiktok": {
-  "views_28d": 7553,
+  "views_28d": 7556,
   "videos_28d": 28,
   "weekly": [
    1271,
    5757,
    1882,
-   3210,
+   3211,
    1028,
    1019,
    2444,
-   334
+   337
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 58283,
+ "stale": {
+  "youtube": "2026-11-05",
+  "instagram": "2026-11-05"
+ },
+ "shorts_views_28d": 58286,
  "weeks": [
   "2026-09-14",
   "2026-09-21",
