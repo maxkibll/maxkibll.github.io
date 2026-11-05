@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "period": {
-  "from": "2026-10-08",
-  "to": "2026-11-04"
+  "from": "2026-10-09",
+  "to": "2026-11-05"
  },
  "twitch": {
   "followers": 952,
   "type": "affiliate",
-  "streams_28d": 8,
-  "streams_per_week": 4.0,
+  "streams_28d": 9,
+  "streams_per_week": 4.5,
   "avg_stream_hours": 3.0,
   "window_days": 14
  },
  "youtube": {
   "subscribers": 45,
-  "views_28d": 27745,
-  "watch_hours_28d": 114,
-  "shorts_view_pct": 58,
+  "views_28d": 27298,
+  "watch_hours_28d": 113,
+  "shorts_view_pct": 59,
   "shorts_view_s": 21,
   "weekly": [
    8994,
@@ -26,24 +26,24 @@
    7800,
    3458,
    7694,
-   2005
+   2072
   ],
   "likes_28d": 201,
   "age": {
-   "18-24": 10.7,
-   "25-34": 50.0,
+   "18-24": 10.6,
+   "25-34": 50.4,
    "35-44": 31.0,
-   "45-54": 8.1,
+   "45-54": 7.8,
    "65+": 0.3
   },
   "gender": {
-   "male": 99.6,
-   "female": 0.5
+   "male": 99.5,
+   "female": 0.6
   },
   "countries": [
    {
     "code": "RU",
-    "share": 62
+    "share": 63
    },
    {
     "code": "UA",
@@ -65,7 +65,7 @@
   "top": [
    {
     "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
-    "views": 2556,
+    "views": 2557,
     "url": "https://youtube.com/shorts/7LJcLq-NnBY"
    },
    {
@@ -80,15 +80,15 @@
    },
    {
     "title": "Гриль, ну не умри! 😅 AMX 50B",
-    "views": 1379,
+    "views": 1460,
     "url": "https://youtube.com/shorts/PziZtO1-bO8"
    }
   ]
  },
  "instagram": {
   "followers": 19,
-  "views_28d": 23166,
-  "reels_28d": 29,
+  "views_28d": 21706,
+  "reels_28d": 28,
   "weekly": [
    10225,
    5723,
@@ -97,29 +97,29 @@
    7278,
    2130,
    8600,
-   897
+   911
   ],
   "avg_watch_s": 15.9
  },
  "tiktok": {
-  "views_28d": 7695,
-  "videos_28d": 29,
+  "views_28d": 7533,
+  "videos_28d": 28,
   "weekly": [
    1271,
    5757,
    1882,
    3211,
-   1028,
+   1029,
    1019,
    2447,
-   473
+   480
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 58606,
+ "shorts_views_28d": 56537,
  "weeks": [
   "2026-09-14",
   "2026-09-21",
