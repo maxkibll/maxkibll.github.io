@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "period": {
-  "from": "2026-10-09",
-  "to": "2026-11-05"
+  "from": "2026-10-10",
+  "to": "2026-11-06"
  },
  "twitch": {
   "followers": 952,
   "type": "affiliate",
   "streams_28d": 10,
   "streams_per_week": 4.7,
-  "avg_stream_hours": 3.0,
+  "avg_stream_hours": 3.1,
   "window_days": 15
  },
  "youtube": {
   "subscribers": 45,
-  "views_28d": 27277,
-  "watch_hours_28d": 105,
+  "views_28d": 26274,
+  "watch_hours_28d": 102,
   "shorts_view_pct": 59,
   "shorts_view_s": 21,
   "weekly": [
@@ -26,14 +26,14 @@
    7800,
    3458,
    7695,
-   2588
+   2627
   ],
-  "likes_28d": 201,
+  "likes_28d": 184,
   "age": {
-   "18-24": 10.6,
-   "25-34": 50.4,
+   "18-24": 10.5,
+   "25-34": 50.6,
    "35-44": 31.0,
-   "45-54": 7.8,
+   "45-54": 7.7,
    "65+": 0.3
   },
   "gender": {
@@ -47,7 +47,7 @@
    },
    {
     "code": "UA",
-    "share": 11
+    "share": 12
    },
    {
     "code": "KZ",
@@ -65,12 +65,12 @@
   "top": [
    {
     "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
-    "views": 2557,
+    "views": 2560,
     "url": "https://youtube.com/shorts/7LJcLq-NnBY"
    },
    {
     "title": "Я эту задачу полтора месяца не мог выполнить 😅 TNH T vz. 51",
-    "views": 1962,
+    "views": 1964,
     "url": "https://youtube.com/shorts/oXwOt3LFdGA"
    },
    {
@@ -80,30 +80,30 @@
    },
    {
     "title": "Гриль, ну не умри! 😅 AMX 50B",
-    "views": 1455,
+    "views": 1474,
     "url": "https://youtube.com/shorts/PziZtO1-bO8"
    }
   ]
  },
  "instagram": {
   "followers": 20,
-  "views_28d": 22520,
-  "reels_28d": 29,
+  "views_28d": 23172,
+  "reels_28d": 28,
   "weekly": [
    10225,
    5723,
    11502,
    5369,
-   7279,
+   7280,
    2130,
-   8604,
-   1720
+   8605,
+   2614
   ],
-  "avg_watch_s": 15.7
+  "avg_watch_s": 15.5
  },
  "tiktok": {
-  "views_28d": 7680,
-  "videos_28d": 29,
+  "views_28d": 7546,
+  "videos_28d": 28,
   "weekly": [
    1271,
    5757,
@@ -112,14 +112,14 @@
    1029,
    1019,
    2448,
-   626
+   632
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 57477,
+ "shorts_views_28d": 56992,
  "weeks": [
   "2026-09-14",
   "2026-09-21",
