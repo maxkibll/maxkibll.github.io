@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "period": {
-  "from": "2026-10-10",
-  "to": "2026-11-06"
+  "from": "2026-10-11",
+  "to": "2026-11-07"
  },
  "twitch": {
   "followers": 954,
@@ -14,8 +14,8 @@
  },
  "youtube": {
   "subscribers": 45,
-  "views_28d": 26282,
-  "watch_hours_28d": 110,
+  "views_28d": 24994,
+  "watch_hours_28d": 104,
   "shorts_view_pct": 59,
   "shorts_view_s": 21,
   "weekly": [
@@ -25,15 +25,15 @@
    10341,
    6580,
    3458,
-   7696,
-   3207
+   7697,
+   3417
   ],
-  "likes_28d": 184,
+  "likes_28d": 176,
   "age": {
-   "18-24": 10.5,
-   "25-34": 50.6,
-   "35-44": 31.0,
-   "45-54": 7.7,
+   "18-24": 10.3,
+   "25-34": 50.7,
+   "35-44": 31.2,
+   "45-54": 7.6,
    "65+": 0.3
   },
   "gender": {
@@ -50,16 +50,16 @@
     "share": 12
    },
    {
-    "code": "KZ",
-    "share": 8
-   },
-   {
     "code": "BY",
     "share": 8
    },
    {
+    "code": "KZ",
+    "share": 8
+   },
+   {
     "code": "KG",
-    "share": 6
+    "share": 5
    }
   ],
   "top": [
@@ -74,21 +74,21 @@
     "url": "https://youtube.com/shorts/oXwOt3LFdGA"
    },
    {
-    "title": "У меня не осталось снарядов 💥 T57 Heavy в Натиске",
-    "views": 1925,
-    "url": "https://youtube.com/shorts/Ltvdw57-zfA"
+    "title": "Гриль, ну не умри! 😅 AMX 50B",
+    "views": 1475,
+    "url": "https://youtube.com/shorts/PziZtO1-bO8"
    },
    {
-    "title": "Гриль, ну не умри! 😅 AMX 50B",
-    "views": 1474,
-    "url": "https://youtube.com/shorts/PziZtO1-bO8"
+    "title": "Что ты за чудовище? 😳 FV225 Collector",
+    "views": 1336,
+    "url": "https://youtube.com/shorts/kTtl3S948vw"
    }
   ]
  },
  "instagram": {
   "followers": 20,
-  "views_28d": 24878,
-  "reels_28d": 29,
+  "views_28d": 23909,
+  "reels_28d": 28,
   "weekly": [
    10225,
    5723,
@@ -96,14 +96,14 @@
    5369,
    7283,
    2130,
-   8606,
-   4316
+   8607,
+   4543
   ],
-  "avg_watch_s": 15.0
+  "avg_watch_s": 14.7
  },
  "tiktok": {
-  "views_28d": 7748,
-  "videos_28d": 29,
+  "views_28d": 6077,
+  "videos_28d": 28,
   "weekly": [
    1271,
    5757,
@@ -112,14 +112,14 @@
    1029,
    1019,
    2449,
-   833
+   912
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 58908,
+ "shorts_views_28d": 54980,
  "weeks": [
   "2026-09-14",
   "2026-09-21",
