@@ -14,8 +14,8 @@
  },
  "youtube": {
   "subscribers": 45,
-  "views_28d": 26274,
-  "watch_hours_28d": 102,
+  "views_28d": 26282,
+  "watch_hours_28d": 110,
   "shorts_view_pct": 59,
   "shorts_view_s": 21,
   "weekly": [
@@ -26,7 +26,7 @@
    7800,
    3458,
    7695,
-   3042
+   3043
   ],
   "likes_28d": 184,
   "age": {
@@ -87,7 +87,7 @@
  },
  "instagram": {
   "followers": 20,
-  "views_28d": 23244,
+  "views_28d": 23280,
   "reels_28d": 28,
   "weekly": [
    10225,
@@ -97,12 +97,12 @@
    7280,
    2130,
    8605,
-   2686
+   2722
   ],
-  "avg_watch_s": 15.5
+  "avg_watch_s": 15.4
  },
  "tiktok": {
-  "views_28d": 7561,
+  "views_28d": 7584,
   "videos_28d": 28,
   "weekly": [
    1271,
@@ -112,14 +112,14 @@
    1029,
    1019,
    2449,
-   646
+   669
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 57079,
+ "shorts_views_28d": 57146,
  "weeks": [
   "2026-09-14",
   "2026-09-21",
