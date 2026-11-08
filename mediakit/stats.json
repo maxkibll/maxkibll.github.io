@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "period": {
-  "from": "2026-10-11",
-  "to": "2026-11-07"
+  "from": "2026-10-12",
+  "to": "2026-11-08"
  },
  "twitch": {
   "followers": 954,
@@ -14,36 +14,36 @@
  },
  "youtube": {
   "subscribers": 45,
-  "views_28d": 24990,
-  "watch_hours_28d": 104,
+  "views_28d": 24290,
+  "watch_hours_28d": 102,
   "shorts_view_pct": 59,
   "shorts_view_s": 21,
   "weekly": [
-   8995,
    11009,
    12644,
    10344,
    6581,
    3459,
    7697,
-   3955
+   4053,
+   0
   ],
-  "likes_28d": 176,
+  "likes_28d": 177,
   "age": {
    "18-24": 10.3,
    "25-34": 50.7,
-   "35-44": 31.2,
-   "45-54": 7.6,
+   "35-44": 31.0,
+   "45-54": 7.7,
    "65+": 0.3
   },
   "gender": {
-   "male": 99.5,
+   "male": 99.4,
    "female": 0.6
   },
   "countries": [
    {
     "code": "RU",
-    "share": 63
+    "share": 64
    },
    {
     "code": "UA",
@@ -55,7 +55,7 @@
    },
    {
     "code": "KZ",
-    "share": 8
+    "share": 7
    },
    {
     "code": "KG",
@@ -63,11 +63,6 @@
    }
   ],
   "top": [
-   {
-    "title": "Боже, какой тут ДПМ 🔥 Kampfpanzer 67 в Натиске",
-    "views": 2560,
-    "url": "https://youtube.com/shorts/7LJcLq-NnBY"
-   },
    {
     "title": "Я эту задачу полтора месяца не мог выполнить 😅 TNH T vz. 51",
     "views": 1964,
@@ -79,6 +74,11 @@
     "url": "https://youtube.com/shorts/PziZtO1-bO8"
    },
    {
+    "title": "4к надо было ровно 😅 Erich Konzept I",
+    "views": 1342,
+    "url": "https://youtube.com/shorts/9zna6vcoFg0"
+   },
+   {
     "title": "Что ты за чудовище? 😳 FV225 Collector",
     "views": 1336,
     "url": "https://youtube.com/shorts/kTtl3S948vw"
@@ -87,47 +87,47 @@
  },
  "instagram": {
   "followers": 20,
-  "views_28d": 24140,
-  "reels_28d": 29,
+  "views_28d": 22827,
+  "reels_28d": 28,
   "weekly": [
-   10225,
    5723,
    11503,
    5369,
    7286,
    2131,
-   8608,
-   4769
+   8610,
+   4800,
+   0
   ],
-  "avg_watch_s": 14.7
+  "avg_watch_s": 14.4
  },
  "tiktok": {
-  "views_28d": 6450,
-  "videos_28d": 29,
+  "views_28d": 5843,
+  "videos_28d": 28,
   "weekly": [
-   1271,
    5757,
    1882,
    3211,
    1029,
    1019,
-   2452,
-   1282
+   2454,
+   1341,
+   0
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 55580,
+ "shorts_views_28d": 52960,
  "weeks": [
-  "2026-09-14",
   "2026-09-21",
   "2026-09-28",
   "2026-10-05",
   "2026-10-12",
   "2026-10-19",
   "2026-10-26",
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-09"
  ]
 }
