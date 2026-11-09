@@ -1,49 +1,48 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "period": {
-  "from": "2026-10-12",
-  "to": "2026-11-08"
+  "from": "2026-10-13",
+  "to": "2026-11-09"
  },
  "twitch": {
-  "followers": 954,
+  "followers": 953,
   "type": "affiliate",
   "streams_28d": 10,
   "streams_per_week": 4.7,
-  "avg_stream_hours": 2.9,
+  "avg_stream_hours": 3.1,
   "window_days": 15
  },
  "youtube": {
   "subscribers": 45,
-  "views_28d": 24290,
-  "watch_hours_28d": 102,
+  "views_28d": 22989,
+  "watch_hours_28d": 103,
   "shorts_view_pct": 59,
-  "shorts_view_s": 21,
+  "shorts_view_s": 20,
   "weekly": [
    11012,
    12644,
    10344,
-   7788,
-   3459,
+   7802,
+   2707,
    7698,
-   4126,
-   588
+   4167,
+   1279
   ],
-  "likes_28d": 177,
+  "likes_28d": 163,
   "age": {
-   "18-24": 10.3,
-   "25-34": 50.7,
+   "18-24": 10.5,
+   "25-34": 51.0,
    "35-44": 31.0,
-   "45-54": 7.7,
-   "65+": 0.3
+   "45-54": 7.6
   },
   "gender": {
-   "male": 99.4,
-   "female": 0.6
+   "male": 99.9,
+   "female": 0.2
   },
   "countries": [
    {
     "code": "RU",
-    "share": 64
+    "share": 65
    },
    {
     "code": "UA",
@@ -59,13 +58,13 @@
    },
    {
     "code": "KG",
-    "share": 5
+    "share": 4
    }
   ],
   "top": [
    {
     "title": "Я эту задачу полтора месяца не мог выполнить 😅 TNH T vz. 51",
-    "views": 1964,
+    "views": 1963,
     "url": "https://youtube.com/shorts/oXwOt3LFdGA"
    },
    {
@@ -80,14 +79,14 @@
    },
    {
     "title": "Что ты за чудовище? 😳 FV225 Collector",
-    "views": 1336,
+    "views": 1337,
     "url": "https://youtube.com/shorts/kTtl3S948vw"
    }
   ]
  },
  "instagram": {
   "followers": 20,
-  "views_28d": 23000,
+  "views_28d": 21750,
   "reels_28d": 28,
   "weekly": [
    5723,
@@ -96,14 +95,14 @@
    7288,
    2131,
    8613,
-   4968,
-   0
+   4970,
+   240
   ],
   "avg_watch_s": 14.4
  },
  "tiktok": {
-  "views_28d": 6411,
-  "videos_28d": 29,
+  "views_28d": 6301,
+  "videos_28d": 28,
   "weekly": [
    5757,
    1882,
@@ -112,14 +111,14 @@
    1019,
    2456,
    1763,
-   144
+   199
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 53701,
+ "shorts_views_28d": 51040,
  "weeks": [
   "2026-09-21",
   "2026-09-28",
