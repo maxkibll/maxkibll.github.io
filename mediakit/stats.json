@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "period": {
-  "from": "2026-10-13",
-  "to": "2026-11-09"
+  "from": "2026-10-14",
+  "to": "2026-11-10"
  },
  "twitch": {
   "followers": 953,
@@ -14,9 +14,9 @@
  },
  "youtube": {
   "subscribers": 45,
-  "views_28d": 22987,
-  "watch_hours_28d": 103,
-  "shorts_view_pct": 59,
+  "views_28d": 21499,
+  "watch_hours_28d": 97,
+  "shorts_view_pct": 58,
   "shorts_view_s": 20,
   "weekly": [
    11019,
@@ -25,24 +25,24 @@
    7803,
    2707,
    7698,
-   4257,
-   1895
+   4258,
+   2018
   ],
-  "likes_28d": 163,
+  "likes_28d": 149,
   "age": {
-   "18-24": 10.5,
-   "25-34": 51.0,
-   "35-44": 31.0,
-   "45-54": 7.6
+   "18-24": 10.2,
+   "25-34": 51.2,
+   "35-44": 31.3,
+   "45-54": 7.3
   },
   "gender": {
-   "male": 99.9,
+   "male": 99.8,
    "female": 0.2
   },
   "countries": [
    {
     "code": "RU",
-    "share": 65
+    "share": 64
    },
    {
     "code": "UA",
@@ -63,14 +63,14 @@
   ],
   "top": [
    {
-    "title": "Я эту задачу полтора месяца не мог выполнить 😅 TNH T vz. 51",
-    "views": 1963,
-    "url": "https://youtube.com/shorts/oXwOt3LFdGA"
+    "title": "Гриль, ну не умри! 😅 AMX 50B",
+    "views": 1475,
+    "url": "https://youtube.com/shorts/PziZtO1-bO8"
    },
    {
-    "title": "Гриль, ну не умри! 😅 AMX 50B",
-    "views": 1474,
-    "url": "https://youtube.com/shorts/PziZtO1-bO8"
+    "title": "Чё с лицом, а? 1117 одним выстрелом на Яге",
+    "views": 1351,
+    "url": "https://youtube.com/shorts/6jU-w72JccA"
    },
    {
     "title": "4к надо было ровно 😅 Erich Konzept I",
@@ -101,24 +101,27 @@
   "avg_watch_s": 14.2
  },
  "tiktok": {
-  "views_28d": 6770,
-  "videos_28d": 29,
+  "views_28d": 6720,
+  "videos_28d": 28,
   "weekly": [
    5757,
    1882,
-   3212,
+   3213,
    1029,
    1019,
    2456,
    1768,
-   663
+   782
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 53169,
+ "stale": {
+  "instagram": "2026-11-10"
+ },
+ "shorts_views_28d": 51631,
  "weeks": [
   "2026-09-21",
   "2026-09-28",
