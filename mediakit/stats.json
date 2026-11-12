@@ -1,52 +1,52 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "period": {
-  "from": "2026-10-15",
-  "to": "2026-11-11"
+  "from": "2026-10-16",
+  "to": "2026-11-12"
  },
  "twitch": {
   "followers": 954,
   "type": "affiliate",
   "streams_28d": 11,
   "streams_per_week": 5.5,
-  "avg_stream_hours": 2.6,
+  "avg_stream_hours": 2.8,
   "window_days": 14
  },
  "youtube": {
   "subscribers": 45,
-  "views_28d": 21652,
-  "watch_hours_28d": 95,
-  "shorts_view_pct": 57,
-  "shorts_view_s": 19,
+  "views_28d": 21728,
+  "watch_hours_28d": 93,
+  "shorts_view_pct": 58,
+  "shorts_view_s": 18,
   "weekly": [
    11028,
    12644,
    10353,
    7806,
-   3136,
+   2958,
    7699,
    4259,
-   4813
+   4912
   ],
   "likes_28d": 146,
   "age": {
-   "18-24": 9.8,
-   "25-34": 51.0,
-   "35-44": 31.7,
-   "45-54": 7.6
+   "18-24": 9.5,
+   "25-34": 50.7,
+   "35-44": 32,
+   "45-54": 7.9
   },
   "gender": {
-   "male": 99.9,
-   "female": 0.2
+   "male": 99.7,
+   "female": 0.4
   },
   "countries": [
    {
     "code": "RU",
-    "share": 64
+    "share": 63
    },
    {
     "code": "UA",
-    "share": 13
+    "share": 12
    },
    {
     "code": "BY",
@@ -57,14 +57,14 @@
     "share": 7
    },
    {
-    "code": "KG",
+    "code": "AM",
     "share": 5
    }
   ],
   "top": [
    {
     "title": "О, пробил! 1093 одним выстрелом",
-    "views": 1612,
+    "views": 2477,
     "url": "https://youtube.com/shorts/XW9YERLBxLE"
    },
    {
@@ -86,8 +86,8 @@
  },
  "instagram": {
   "followers": 20,
-  "views_28d": 23410,
-  "reels_28d": 28,
+  "views_28d": 21433,
+  "reels_28d": 27,
   "weekly": [
    5723,
    11503,
@@ -96,13 +96,13 @@
    2131,
    8621,
    4993,
-   4563
+   4581
   ],
-  "avg_watch_s": 12.8
+  "avg_watch_s": 12.2
  },
  "tiktok": {
-  "views_28d": 7541,
-  "videos_28d": 29,
+  "views_28d": 7432,
+  "videos_28d": 28,
   "weekly": [
    5757,
    1882,
@@ -111,14 +111,14 @@
    1019,
    2456,
    1775,
-   1749
+   1759
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 52603,
+ "shorts_views_28d": 50593,
  "weeks": [
   "2026-09-21",
   "2026-09-28",
