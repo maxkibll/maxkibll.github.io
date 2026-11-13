@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "period": {
-  "from": "2026-10-16",
-  "to": "2026-11-12"
+  "from": "2026-10-17",
+  "to": "2026-11-13"
  },
  "twitch": {
   "followers": 954,
   "type": "affiliate",
   "streams_28d": 12,
   "streams_per_week": 5.6,
-  "avg_stream_hours": 2.7,
+  "avg_stream_hours": 2.8,
   "window_days": 15
  },
  "youtube": {
   "subscribers": 46,
-  "views_28d": 21728,
-  "watch_hours_28d": 93,
-  "shorts_view_pct": 58,
+  "views_28d": 22883,
+  "watch_hours_28d": 100,
+  "shorts_view_pct": 59,
   "shorts_view_s": 18,
   "weekly": [
    11030,
@@ -24,29 +24,29 @@
    10354,
    7808,
    3460,
-   7699,
+   9402,
    4268,
-   5952
+   6055
   ],
-  "likes_28d": 146,
+  "likes_28d": 145,
   "age": {
-   "18-24": 9.5,
-   "25-34": 50.7,
-   "35-44": 32,
-   "45-54": 7.9
+   "18-24": 9.1,
+   "25-34": 50.1,
+   "35-44": 32.5,
+   "45-54": 8.3
   },
   "gender": {
-   "male": 99.7,
+   "male": 99.6,
    "female": 0.4
   },
   "countries": [
    {
     "code": "RU",
-    "share": 63
+    "share": 64
    },
    {
     "code": "UA",
-    "share": 12
+    "share": 11
    },
    {
     "code": "BY",
@@ -64,7 +64,7 @@
   "top": [
    {
     "title": "О, пробил! 1093 одним выстрелом",
-    "views": 2477,
+    "views": 3985,
     "url": "https://youtube.com/shorts/XW9YERLBxLE"
    },
    {
@@ -86,8 +86,8 @@
  },
  "instagram": {
   "followers": 20,
-  "views_28d": 21827,
-  "reels_28d": 28,
+  "views_28d": 22426,
+  "reels_28d": 27,
   "weekly": [
    5723,
    11503,
@@ -95,30 +95,30 @@
    7304,
    2131,
    8622,
-   5001,
-   4966
+   5002,
+   5766
   ],
-  "avg_watch_s": 12.1
+  "avg_watch_s": 12.0
  },
  "tiktok": {
-  "views_28d": 7605,
-  "videos_28d": 29,
+  "views_28d": 7506,
+  "videos_28d": 28,
   "weekly": [
    5757,
    1882,
-   3219,
+   3220,
    1029,
    1019,
    2456,
    1777,
-   1930
+   1956
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 51160,
+ "shorts_views_28d": 52815,
  "weeks": [
   "2026-09-21",
   "2026-09-28",
