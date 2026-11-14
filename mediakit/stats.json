@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "period": {
-  "from": "2026-10-17",
-  "to": "2026-11-13"
+  "from": "2026-10-18",
+  "to": "2026-11-14"
  },
  "twitch": {
   "followers": 957,
   "type": "affiliate",
-  "streams_28d": 12,
-  "streams_per_week": 6.0,
-  "avg_stream_hours": 2.9,
+  "streams_28d": 13,
+  "streams_per_week": 6.5,
+  "avg_stream_hours": 2.8,
   "window_days": 14
  },
  "youtube": {
-  "subscribers": 47,
-  "views_28d": 22883,
-  "watch_hours_28d": 100,
-  "shorts_view_pct": 59,
+  "subscribers": 48,
+  "views_28d": 23384,
+  "watch_hours_28d": 103,
+  "shorts_view_pct": 61,
   "shorts_view_s": 18,
   "weekly": [
    11034,
@@ -25,18 +25,18 @@
    7808,
    3460,
    7926,
-   4269,
-   7596
+   4275,
+   8451
   ],
-  "likes_28d": 145,
+  "likes_28d": 143,
   "age": {
-   "18-24": 9.1,
-   "25-34": 50.1,
-   "35-44": 32.5,
-   "45-54": 8.3
+   "18-24": 8.8,
+   "25-34": 49.9,
+   "35-44": 32.7,
+   "45-54": 8.5
   },
   "gender": {
-   "male": 99.6,
+   "male": 99.5,
    "female": 0.4
   },
   "countries": [
@@ -64,7 +64,7 @@
   "top": [
    {
     "title": "О, пробил! 1093 одним выстрелом",
-    "views": 3985,
+    "views": 4870,
     "url": "https://youtube.com/shorts/XW9YERLBxLE"
    },
    {
@@ -86,8 +86,8 @@
  },
  "instagram": {
   "followers": 20,
-  "views_28d": 23318,
-  "reels_28d": 28,
+  "views_28d": 22800,
+  "reels_28d": 27,
   "weekly": [
    5723,
    11503,
@@ -96,13 +96,13 @@
    2131,
    8624,
    5008,
-   6650
+   6813
   ],
   "avg_watch_s": 11.9
  },
  "tiktok": {
-  "views_28d": 7803,
-  "videos_28d": 29,
+  "views_28d": 7675,
+  "videos_28d": 28,
   "weekly": [
    5757,
    1882,
@@ -110,15 +110,15 @@
    1029,
    1019,
    2456,
-   1778,
-   2252
+   1780,
+   2275
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 54004,
+ "shorts_views_28d": 53859,
  "weeks": [
   "2026-09-21",
   "2026-09-28",
