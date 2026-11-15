@@ -1,42 +1,42 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "period": {
-  "from": "2026-10-18",
-  "to": "2026-11-14"
+  "from": "2026-10-19",
+  "to": "2026-11-15"
  },
  "twitch": {
-  "followers": 958,
+  "followers": 957,
   "type": "affiliate",
   "streams_28d": 14,
   "streams_per_week": 6.5,
-  "avg_stream_hours": 2.6,
+  "avg_stream_hours": 2.8,
   "window_days": 15
  },
  "youtube": {
   "subscribers": 50,
-  "views_28d": 23384,
+  "views_28d": 23014,
   "watch_hours_28d": 103,
-  "shorts_view_pct": 61,
+  "shorts_view_pct": 62,
   "shorts_view_s": 18,
   "weekly": [
-   11038,
    12644,
    10359,
    7818,
    3461,
-   7926,
+   7837,
    4275,
-   9945
+   10263,
+   0
   ],
-  "likes_28d": 143,
+  "likes_28d": 141,
   "age": {
-   "18-24": 8.8,
-   "25-34": 49.9,
-   "35-44": 32.7,
+   "18-24": 8.7,
+   "25-34": 49.7,
+   "35-44": 33.2,
    "45-54": 8.5
   },
   "gender": {
-   "male": 99.5,
+   "male": 99.7,
    "female": 0.4
   },
   "countries": [
@@ -58,13 +58,13 @@
    },
    {
     "code": "AM",
-    "share": 5
+    "share": 6
    }
   ],
   "top": [
    {
     "title": "О, пробил! 1093 одним выстрелом",
-    "views": 4870,
+    "views": 5167,
     "url": "https://youtube.com/shorts/XW9YERLBxLE"
    },
    {
@@ -74,7 +74,7 @@
    },
    {
     "title": "Чё с лицом, а? 1117 одним выстрелом на Яге",
-    "views": 1359,
+    "views": 1361,
     "url": "https://youtube.com/shorts/6jU-w72JccA"
    },
    {
@@ -86,47 +86,47 @@
  },
  "instagram": {
   "followers": 20,
-  "views_28d": 23561,
-  "reels_28d": 28,
+  "views_28d": 23353,
+  "reels_28d": 27,
   "weekly": [
-   5723,
    11503,
    5369,
    7307,
    2131,
    8627,
-   5008,
-   7571
+   5009,
+   7586,
+   0
   ],
   "avg_watch_s": 11.9
  },
  "tiktok": {
-  "views_28d": 7983,
-  "videos_28d": 29,
+  "views_28d": 7849,
+  "videos_28d": 28,
   "weekly": [
-   5757,
    1882,
    3220,
    1029,
    1019,
    2456,
    1780,
-   2583
+   2594,
+   0
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 54928,
+ "shorts_views_28d": 54216,
  "weeks": [
-  "2026-09-21",
   "2026-09-28",
   "2026-10-05",
   "2026-10-12",
   "2026-10-19",
   "2026-10-26",
   "2026-11-02",
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-16"
  ]
 }
