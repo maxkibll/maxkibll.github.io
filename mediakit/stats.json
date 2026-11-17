@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "period": {
-  "from": "2026-10-20",
-  "to": "2026-11-16"
+  "from": "2026-10-21",
+  "to": "2026-11-17"
  },
  "twitch": {
   "followers": 956,
@@ -14,38 +14,38 @@
  },
  "youtube": {
   "subscribers": 51,
-  "views_28d": 24900,
-  "watch_hours_28d": 104,
-  "shorts_view_pct": 61,
+  "views_28d": 26945,
+  "watch_hours_28d": 120,
+  "shorts_view_pct": 60,
   "shorts_view_s": 17,
   "weekly": [
    12644,
-   10359,
+   10361,
    7823,
-   3463,
+   3464,
    10449,
    4277,
-   11459,
-   1790
+   11483,
+   2340
   ],
-  "likes_28d": 152,
+  "likes_28d": 167,
   "age": {
    "13-17": 0.2,
-   "18-24": 8.6,
-   "25-34": 48.9,
+   "18-24": 8.4,
+   "25-34": 47.6,
    "35-44": 32.6,
    "45-54": 8.9,
-   "55-64": 0.4,
-   "65+": 0.4
+   "55-64": 0.7,
+   "65+": 1.6
   },
   "gender": {
-   "male": 99.5,
-   "female": 0.5
+   "male": 98.8,
+   "female": 1.2
   },
   "countries": [
    {
     "code": "RU",
-    "share": 64
+    "share": 63
    },
    {
     "code": "UA",
@@ -53,7 +53,7 @@
    },
    {
     "code": "BY",
-    "share": 8
+    "share": 7
    },
    {
     "code": "KZ",
@@ -67,8 +67,13 @@
   "top": [
    {
     "title": "О, пробил! 1093 одним выстрелом",
-    "views": 5174,
+    "views": 5175,
     "url": "https://youtube.com/shorts/XW9YERLBxLE"
+   },
+   {
+    "title": "Фугасом же, браза! Он должен был в ангаре быть уже",
+    "views": 2134,
+    "url": "https://youtube.com/shorts/LL91P0yu2f0"
    },
    {
     "title": "Гриль, ну не умри! 😅 AMX 50B",
@@ -76,36 +81,31 @@
     "url": "https://youtube.com/shorts/PziZtO1-bO8"
    },
    {
-    "title": "Фугасом же, браза! Он должен был в ангаре быть уже",
-    "views": 1429,
-    "url": "https://youtube.com/shorts/LL91P0yu2f0"
-   },
-   {
-    "title": "Чё с лицом, а? 1117 одним выстрелом на Яге",
-    "views": 1362,
-    "url": "https://youtube.com/shorts/6jU-w72JccA"
+    "title": "Нравится, нравится! Бураск одним фугасом на ИСУ-152",
+    "views": 1392,
+    "url": "https://youtube.com/shorts/lZuzXEbKpNc"
    }
   ]
  },
  "instagram": {
   "followers": 21,
-  "views_28d": 26170,
-  "reels_28d": 28,
+  "views_28d": 26246,
+  "reels_28d": 27,
   "weekly": [
    11503,
    5369,
-   7314,
+   7315,
    2131,
    8632,
    5016,
-   7653,
-   2955
+   7655,
+   3191
   ],
   "avg_watch_s": 11.7
  },
  "tiktok": {
-  "views_28d": 8089,
-  "videos_28d": 29,
+  "views_28d": 8158,
+  "videos_28d": 28,
   "weekly": [
    1882,
    3220,
@@ -114,14 +114,14 @@
    2456,
    1781,
    2618,
-   349
+   555
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 59159,
+ "shorts_views_28d": 61349,
  "weeks": [
   "2026-09-28",
   "2026-10-05",
