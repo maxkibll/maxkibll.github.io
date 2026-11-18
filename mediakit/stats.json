@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "period": {
-  "from": "2026-10-21",
-  "to": "2026-11-17"
+  "from": "2026-10-22",
+  "to": "2026-11-18"
  },
  "twitch": {
   "followers": 955,
@@ -13,34 +13,34 @@
   "window_days": 14
  },
  "youtube": {
-  "subscribers": 53,
-  "views_28d": 26945,
-  "watch_hours_28d": 120,
-  "shorts_view_pct": 60,
+  "subscribers": 54,
+  "views_28d": 28663,
+  "watch_hours_28d": 125,
+  "shorts_view_pct": 59,
   "shorts_view_s": 17,
   "weekly": [
    12644,
-   10361,
+   10362,
    7823,
    3466,
    7699,
    5618,
-   11578,
-   2867
+   11583,
+   3044
   ],
-  "likes_28d": 167,
+  "likes_28d": 173,
   "age": {
    "13-17": 0.2,
    "18-24": 8.4,
-   "25-34": 47.6,
+   "25-34": 46.3,
    "35-44": 32.6,
-   "45-54": 8.9,
-   "55-64": 0.7,
-   "65+": 1.6
+   "45-54": 9.5,
+   "55-64": 0.9,
+   "65+": 2.2
   },
   "gender": {
-   "male": 98.8,
-   "female": 1.2
+   "male": 98.6,
+   "female": 1.5
   },
   "countries": [
    {
@@ -72,24 +72,24 @@
    },
    {
     "title": "Фугасом же, браза! Он должен был в ангаре быть уже",
-    "views": 2134,
+    "views": 2527,
     "url": "https://youtube.com/shorts/LL91P0yu2f0"
+   },
+   {
+    "title": "Нравится, нравится! Бураск одним фугасом на ИСУ-152",
+    "views": 1558,
+    "url": "https://youtube.com/shorts/lZuzXEbKpNc"
    },
    {
     "title": "Гриль, ну не умри! 😅 AMX 50B",
     "views": 1475,
     "url": "https://youtube.com/shorts/PziZtO1-bO8"
-   },
-   {
-    "title": "Нравится, нравится! Бураск одним фугасом на ИСУ-152",
-    "views": 1392,
-    "url": "https://youtube.com/shorts/lZuzXEbKpNc"
    }
   ]
  },
  "instagram": {
   "followers": 21,
-  "views_28d": 27766,
+  "views_28d": 27719,
   "reels_28d": 27,
   "weekly": [
    11503,
@@ -98,30 +98,30 @@
    2138,
    8642,
    5025,
-   7678,
-   4664
+   7680,
+   4801
   ],
   "avg_watch_s": 11.6
  },
  "tiktok": {
-  "views_28d": 8323,
-  "videos_28d": 29,
+  "views_28d": 8167,
+  "videos_28d": 28,
   "weekly": [
    1882,
-   3220,
+   3221,
    1029,
    1019,
    2456,
    1781,
    2619,
-   719
+   720
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 63034,
+ "shorts_views_28d": 64549,
  "weeks": [
   "2026-09-28",
   "2026-10-05",
