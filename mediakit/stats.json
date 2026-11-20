@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "period": {
-  "from": "2026-10-23",
-  "to": "2026-11-19"
+  "from": "2026-10-24",
+  "to": "2026-11-20"
  },
  "twitch": {
   "followers": 956,
@@ -13,33 +13,33 @@
   "window_days": 15
  },
  "youtube": {
-  "subscribers": 54,
-  "views_28d": 29703,
-  "watch_hours_28d": 133,
-  "shorts_view_pct": 58,
+  "subscribers": 55,
+  "views_28d": 30399,
+  "watch_hours_28d": 138,
+  "shorts_view_pct": 57,
   "shorts_view_s": 16,
   "weekly": [
-   10108,
+   10853,
    10367,
    7823,
    3469,
-   7699,
-   4278,
-   11608,
-   6105
+   7701,
+   5942,
+   11619,
+   6691
   ],
-  "likes_28d": 167,
+  "likes_28d": 172,
   "age": {
    "13-17": 0.2,
    "18-24": 8.2,
-   "25-34": 45.6,
+   "25-34": 45.2,
    "35-44": 32.7,
-   "45-54": 9.8,
-   "55-64": 1.1,
-   "65+": 2.5
+   "45-54": 10.1,
+   "55-64": 1.2,
+   "65+": 2.6
   },
   "gender": {
-   "male": 98.5,
+   "male": 98.6,
    "female": 1.6
   },
   "countries": [
@@ -72,40 +72,40 @@
    },
    {
     "title": "Фугасом же, браза! Он должен был в ангаре быть уже",
-    "views": 2664,
+    "views": 2682,
     "url": "https://youtube.com/shorts/LL91P0yu2f0"
    },
    {
     "title": "Нравится, нравится! Бураск одним фугасом на ИСУ-152",
-    "views": 1610,
+    "views": 1629,
     "url": "https://youtube.com/shorts/lZuzXEbKpNc"
    },
    {
-    "title": "Гриль, ну не умри! 😅 AMX 50B",
-    "views": 1475,
-    "url": "https://youtube.com/shorts/PziZtO1-bO8"
+    "title": "Кайфовый, конечно, урон! 1325 за два выстрела на СУ-152",
+    "views": 1490,
+    "url": "https://youtube.com/shorts/ZRzSJzSn62U"
    }
   ]
  },
  "instagram": {
   "followers": 21,
-  "views_28d": 30356,
-  "reels_28d": 28,
+  "views_28d": 29872,
+  "reels_28d": 27,
   "weekly": [
    11503,
    5369,
    7321,
    2138,
    8642,
-   5025,
+   5026,
    7689,
-   7577
+   7802
   ],
-  "avg_watch_s": 11.4
+  "avg_watch_s": 11.2
  },
  "tiktok": {
-  "views_28d": 8373,
-  "videos_28d": 30,
+  "views_28d": 8239,
+  "videos_28d": 29,
   "weekly": [
    1882,
    3221,
@@ -114,14 +114,14 @@
    2456,
    1781,
    2619,
-   1078
+   1096
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 68432,
+ "shorts_views_28d": 68510,
  "weeks": [
   "2026-09-28",
   "2026-10-05",
