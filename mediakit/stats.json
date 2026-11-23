@@ -9,7 +9,7 @@
   "type": "affiliate",
   "streams_28d": 13,
   "streams_per_week": 6.1,
-  "avg_stream_hours": 2.5,
+  "avg_stream_hours": 2.6,
   "window_days": 15
  },
  "youtube": {
@@ -19,14 +19,14 @@
   "shorts_view_pct": 57,
   "shorts_view_s": 16,
   "weekly": [
-   9257,
+   10374,
    7826,
    3474,
    7711,
    4293,
-   11633,
-   12140,
-   374
+   16808,
+   11987,
+   1107
   ],
   "likes_28d": 181,
   "age": {
@@ -82,14 +82,14 @@
    },
    {
     "title": "Кайфовый, конечно, урон! 1325 за два выстрела на СУ-152",
-    "views": 1575,
+    "views": 1574,
     "url": "https://youtube.com/shorts/ZRzSJzSn62U"
    }
   ]
  },
  "instagram": {
   "followers": 21,
-  "views_28d": 41717,
+  "views_28d": 42410,
   "reels_28d": 28,
   "weekly": [
    5369,
@@ -98,13 +98,13 @@
    8643,
    5029,
    7699,
-   17929,
-   2417
+   17992,
+   3047
   ],
   "avg_watch_s": 13.4
  },
  "tiktok": {
-  "views_28d": 9495,
+  "views_28d": 9705,
   "videos_28d": 30,
   "weekly": [
    3221,
@@ -112,16 +112,16 @@
    1019,
    2456,
    1781,
-   2621,
-   2608,
-   29
+   2622,
+   2780,
+   66
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 84853,
+ "shorts_views_28d": 85756,
  "weeks": [
   "2026-10-05",
   "2026-10-12",
