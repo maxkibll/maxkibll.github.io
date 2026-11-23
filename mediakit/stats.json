@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "period": {
-  "from": "2026-10-26",
-  "to": "2026-11-22"
+  "from": "2026-10-27",
+  "to": "2026-11-23"
  },
  "twitch": {
   "followers": 958,
@@ -14,8 +14,8 @@
  },
  "youtube": {
   "subscribers": 58,
-  "views_28d": 33641,
-  "watch_hours_28d": 134,
+  "views_28d": 35262,
+  "watch_hours_28d": 148,
   "shorts_view_pct": 57,
   "shorts_view_s": 16,
   "weekly": [
@@ -24,22 +24,22 @@
    3474,
    7711,
    4293,
-   16808,
-   11987,
-   1107
+   16809,
+   12303,
+   1291
   ],
-  "likes_28d": 181,
+  "likes_28d": 188,
   "age": {
-   "13-17": 0.3,
-   "18-24": 8.5,
-   "25-34": 44.0,
+   "13-17": 0.4,
+   "18-24": 8.3,
+   "25-34": 43.8,
    "35-44": 32.2,
-   "45-54": 10.3,
-   "55-64": 1.7,
-   "65+": 3
+   "45-54": 10.5,
+   "55-64": 1.9,
+   "65+": 2.8
   },
   "gender": {
-   "male": 98.2,
+   "male": 98.1,
    "female": 1.8
   },
   "countries": [
@@ -49,14 +49,14 @@
    },
    {
     "code": "UA",
-    "share": 13
-   },
-   {
-    "code": "BY",
-    "share": 7
+    "share": 14
    },
    {
     "code": "KZ",
+    "share": 7
+   },
+   {
+    "code": "BY",
     "share": 7
    },
    {
@@ -67,30 +67,30 @@
   "top": [
    {
     "title": "О, пробил! 1093 одним выстрелом",
-    "views": 5173,
+    "views": 5174,
     "url": "https://youtube.com/shorts/XW9YERLBxLE"
    },
    {
     "title": "Фугасом же, браза! Он должен был в ангаре быть уже",
-    "views": 2696,
+    "views": 2697,
     "url": "https://youtube.com/shorts/LL91P0yu2f0"
    },
    {
-    "title": "Нравится, нравится! Бураск одним фугасом на ИСУ-152",
-    "views": 1639,
-    "url": "https://youtube.com/shorts/lZuzXEbKpNc"
+    "title": "Хорош! Йеес! Char Mle 75 выносит Vz. 55 очередью",
+    "views": 1884,
+    "url": "https://youtube.com/shorts/K9tsW0h5Sbk"
    },
    {
-    "title": "Кайфовый, конечно, урон! 1325 за два выстрела на СУ-152",
-    "views": 1574,
-    "url": "https://youtube.com/shorts/ZRzSJzSn62U"
+    "title": "Нравится, нравится! Бураск одним фугасом на ИСУ-152",
+    "views": 1640,
+    "url": "https://youtube.com/shorts/lZuzXEbKpNc"
    }
   ]
  },
  "instagram": {
-  "followers": 21,
-  "views_28d": 42410,
-  "reels_28d": 28,
+  "followers": 23,
+  "views_28d": 42671,
+  "reels_28d": 27,
   "weekly": [
    5369,
    7324,
@@ -98,14 +98,14 @@
    8643,
    5029,
    7699,
-   17992,
-   3047
+   18039,
+   4954
   ],
-  "avg_watch_s": 13.4
+  "avg_watch_s": 13.5
  },
  "tiktok": {
-  "views_28d": 9705,
-  "videos_28d": 30,
+  "views_28d": 9694,
+  "videos_28d": 29,
   "weekly": [
    3221,
    1029,
@@ -113,15 +113,18 @@
    2456,
    1781,
    2622,
-   2780,
-   66
+   2905,
+   68
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 85756,
+ "stale": {
+  "twitch": "2026-11-23"
+ },
+ "shorts_views_28d": 87627,
  "weeks": [
   "2026-10-05",
   "2026-10-12",
