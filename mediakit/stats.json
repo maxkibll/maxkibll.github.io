@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "period": {
-  "from": "2026-10-27",
-  "to": "2026-11-23"
+  "from": "2026-10-28",
+  "to": "2026-11-24"
  },
  "twitch": {
   "followers": 958,
@@ -14,29 +14,29 @@
  },
  "youtube": {
   "subscribers": 57,
-  "views_28d": 35262,
-  "watch_hours_28d": 148,
+  "views_28d": 37389,
+  "watch_hours_28d": 156,
   "shorts_view_pct": 57,
-  "shorts_view_s": 16,
+  "shorts_view_s": 17,
   "weekly": [
-   10375,
-   7826,
+   10378,
+   7828,
    3477,
    7714,
    4293,
    16809,
-   12895,
-   1701
+   12980,
+   1756
   ],
-  "likes_28d": 188,
+  "likes_28d": 195,
   "age": {
-   "13-17": 0.4,
-   "18-24": 8.3,
-   "25-34": 43.8,
-   "35-44": 32.2,
-   "45-54": 10.5,
+   "13-17": 0.5,
+   "18-24": 8.2,
+   "25-34": 43.4,
+   "35-44": 32.5,
+   "45-54": 10.7,
    "55-64": 1.9,
-   "65+": 2.8
+   "65+": 2.7
   },
   "gender": {
    "male": 98.1,
@@ -67,7 +67,7 @@
   "top": [
    {
     "title": "О, пробил! 1093 одним выстрелом",
-    "views": 5174,
+    "views": 5175,
     "url": "https://youtube.com/shorts/XW9YERLBxLE"
    },
    {
@@ -76,21 +76,21 @@
     "url": "https://youtube.com/shorts/LL91P0yu2f0"
    },
    {
-    "title": "Хорош! Йеес! Char Mle 75 выносит Vz. 55 очередью",
-    "views": 1884,
-    "url": "https://youtube.com/shorts/K9tsW0h5Sbk"
+    "title": "Видишь, как может? 😏 Jezevec под бит: 25 попаданий и 5 фрагов",
+    "views": 2251,
+    "url": "https://youtube.com/shorts/vc8bhAE7FrM"
    },
    {
-    "title": "Нравится, нравится! Бураск одним фугасом на ИСУ-152",
-    "views": 1640,
-    "url": "https://youtube.com/shorts/lZuzXEbKpNc"
+    "title": "Хорош! Йеес! Char Mle 75 выносит Vz. 55 очередью",
+    "views": 2042,
+    "url": "https://youtube.com/shorts/K9tsW0h5Sbk"
    }
   ]
  },
  "instagram": {
   "followers": 22,
-  "views_28d": 46746,
-  "reels_28d": 28,
+  "views_28d": 46151,
+  "reels_28d": 27,
   "weekly": [
    5369,
    7324,
@@ -98,33 +98,30 @@
    8643,
    5029,
    7710,
-   18567,
-   8490
+   18621,
+   8612
   ],
   "avg_watch_s": 13.5
  },
  "tiktok": {
-  "views_28d": 10808,
-  "videos_28d": 30,
+  "views_28d": 10516,
+  "videos_28d": 29,
   "weekly": [
-   3221,
+   3222,
    1029,
    1019,
    2456,
    1781,
    2622,
-   3840,
-   247
+   3958,
+   304
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "stale": {
-  "tiktok": "2026-11-24"
- },
- "shorts_views_28d": 92816,
+ "shorts_views_28d": 94056,
  "weeks": [
   "2026-10-05",
   "2026-10-12",
