@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "period": {
-  "from": "2026-10-28",
-  "to": "2026-11-24"
+  "from": "2026-10-29",
+  "to": "2026-11-25"
  },
  "twitch": {
   "followers": 959,
   "type": "affiliate",
   "streams_28d": 13,
   "streams_per_week": 6.1,
-  "avg_stream_hours": 2.6,
+  "avg_stream_hours": 2.7,
   "window_days": 15
  },
  "youtube": {
   "subscribers": 57,
-  "views_28d": 37389,
-  "watch_hours_28d": 156,
-  "shorts_view_pct": 57,
+  "views_28d": 39836,
+  "watch_hours_28d": 167,
+  "shorts_view_pct": 58,
   "shorts_view_s": 17,
   "weekly": [
-   10379,
-   7828,
+   10380,
+   6590,
    3477,
    7715,
    4293,
-   16809,
-   13199,
-   2819
+   11634,
+   13217,
+   2773
   ],
-  "likes_28d": 195,
+  "likes_28d": 207,
   "age": {
-   "13-17": 0.5,
-   "18-24": 8.2,
-   "25-34": 43.4,
+   "13-17": 0.6,
+   "18-24": 8.1,
+   "25-34": 42.6,
    "35-44": 32.5,
-   "45-54": 10.7,
-   "55-64": 1.9,
-   "65+": 2.7
+   "45-54": 11,
+   "55-64": 2.2,
+   "65+": 3.1
   },
   "gender": {
-   "male": 98.1,
-   "female": 1.8
+   "male": 98.0,
+   "female": 2.1
   },
   "countries": [
    {
     "code": "RU",
-    "share": 63
+    "share": 64
    },
    {
     "code": "UA",
@@ -71,26 +71,26 @@
     "url": "https://youtube.com/shorts/XW9YERLBxLE"
    },
    {
+    "title": "Видишь, как может? 😏 Jezevec под бит: 25 попаданий и 5 фрагов",
+    "views": 2843,
+    "url": "https://youtube.com/shorts/vc8bhAE7FrM"
+   },
+   {
     "title": "Фугасом же, браза! Он должен был в ангаре быть уже",
     "views": 2697,
     "url": "https://youtube.com/shorts/LL91P0yu2f0"
    },
    {
-    "title": "Видишь, как может? 😏 Jezevec под бит: 25 попаданий и 5 фрагов",
-    "views": 2251,
-    "url": "https://youtube.com/shorts/vc8bhAE7FrM"
-   },
-   {
     "title": "Хорош! Йеес! Char Mle 75 выносит Vz. 55 очередью",
-    "views": 2042,
+    "views": 2157,
     "url": "https://youtube.com/shorts/K9tsW0h5Sbk"
    }
   ]
  },
  "instagram": {
   "followers": 22,
-  "views_28d": 48688,
-  "reels_28d": 28,
+  "views_28d": 47840,
+  "reels_28d": 27,
   "weekly": [
    5369,
    7324,
@@ -98,14 +98,14 @@
    8643,
    5031,
    7720,
-   18922,
-   10836
+   18990,
+   11181
   ],
-  "avg_watch_s": 13.4
+  "avg_watch_s": 13.3
  },
  "tiktok": {
-  "views_28d": 11146,
-  "videos_28d": 30,
+  "views_28d": 11384,
+  "videos_28d": 29,
   "weekly": [
    3222,
    1029,
@@ -113,15 +113,15 @@
    2456,
    1781,
    2623,
-   4005,
-   886
+   4032,
+   1097
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 97223,
+ "shorts_views_28d": 99060,
  "weeks": [
   "2026-10-05",
   "2026-10-12",
