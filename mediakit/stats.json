@@ -5,7 +5,7 @@
   "to": "2026-11-26"
  },
  "twitch": {
-  "followers": 961,
+  "followers": 960,
   "type": "affiliate",
   "streams_28d": 11,
   "streams_per_week": 5.5,
@@ -25,8 +25,8 @@
    7715,
    4294,
    11635,
-   13337,
-   4736
+   13339,
+   4830
   ],
   "likes_28d": 204,
   "age": {
@@ -88,9 +88,9 @@
   ]
  },
  "instagram": {
-  "followers": 21,
-  "views_28d": 49202,
-  "reels_28d": 27,
+  "followers": 22,
+  "views_28d": 49768,
+  "reels_28d": 28,
   "weekly": [
    5369,
    7324,
@@ -98,14 +98,14 @@
    8644,
    5031,
    7728,
-   19563,
-   12396
+   19618,
+   12907
   ],
   "avg_watch_s": 13.3
  },
  "tiktok": {
-  "views_28d": 12169,
-  "videos_28d": 29,
+  "views_28d": 12265,
+  "videos_28d": 30,
   "weekly": [
    3222,
    1029,
@@ -113,15 +113,15 @@
    2456,
    1782,
    2623,
-   4507,
-   1557
+   4533,
+   1627
   ]
  },
  "community": {
   "telegram": 43,
   "discord": 66
  },
- "shorts_views_28d": 101634,
+ "shorts_views_28d": 102296,
  "weeks": [
   "2026-10-05",
   "2026-10-12",
